@@ -726,7 +726,7 @@ id,value,location,kind,source,column_or_computation,reproduced,match
 725,+1.61,"Table S6, row 7 (Aomori), column 'Deviation less contribution'",table,data/decomposition.csv,"code/reproduce_tables.py table_s6(), column 'Deviation less contribution'",+1.61,yes
 726,5,"Table S6, row 8 (Okayama), column 'Pre-event points'",table,data/decomposition.csv,"code/reproduce_tables.py table_s6(), column 'Pre-event points'",5,yes
 727,−2.586,"Table S6, row 8 (Okayama), column 'Slope (log pts / year)'",table,data/decomposition.csv,"code/reproduce_tables.py table_s6(), column 'Slope (log pts / year)'",−2.586,yes
-728,0.85,"Table S6, row 8 (Okayama), column 'R²'",table,data/decomposition.csv,"code/reproduce_tables.py table_s6(), column 'R2'",0.85,yes
+728,0.86,"Table S6, row 8 (Okayama), column 'R²'",table,data/decomposition.csv,"code/reproduce_tables.py table_s6(), column 'R2'",0.86,yes
 729,−5.17,"Table S6, row 8 (Okayama), column 'Two-year contribution (log pts)'",table,data/decomposition.csv,"code/reproduce_tables.py table_s6(), column 'Two-year contribution (log pts)'",−5.17,yes
 730,+2.58,"Table S6, row 8 (Okayama), column 'Deviation in first post-event FY (log pts)'",table,data/decomposition.csv,"code/reproduce_tables.py table_s6(), column 'Deviation in first post-event FY (log pts)'",+2.58,yes
 731,+7.76,"Table S6, row 8 (Okayama), column 'Deviation less contribution'",table,data/decomposition.csv,"code/reproduce_tables.py table_s6(), column 'Deviation less contribution'",+7.76,yes

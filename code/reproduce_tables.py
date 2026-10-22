@@ -319,9 +319,8 @@ def table_s6():
         r2 = 1 - ss_res / ss_tot if ss_tot else 1.0
         d = deviation(e, p, e["first_fy"], e["first_fy"] - 2)[2]
         contrib = 2 * b
-        # The paper's table rounded R2 to 4 decimals and then printed 2 decimals; the same steps are used here
-        # so that the printed value is reproduced (Okayama: R2 = 0.85503..., stored 0.855, printed 0.85).
-        rows.append([NAME[p], group, str(len(ys)), f"FY{ys[0]}-FY{ys[-1]}", sgn(b, 3), f"{round(r2, 4):.2f}",
+        # R2 is rounded once, to 2 decimals (Okayama: 0.85503... -> 0.86)
+        rows.append([NAME[p], group, str(len(ys)), f"FY{ys[0]}-FY{ys[-1]}", sgn(b, 3), f"{r2:.2f}",
                      sgn(contrib),
                      sgn(d), sgn(d - contrib) if len(ys) > 2 else "–"])
     write("tables", "table_s6.csv", ["Prefecture", "Group", "Pre-event points", "Window", "Slope (log pts / year)",

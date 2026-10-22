@@ -49,7 +49,7 @@ All values are as used in the paper. Changes are in log points: 100 times the di
 
 ### registry/
 
-`numbers_v15.csv` lists every number in the abstract, highlights, main text, table footnotes and figure legends of the paper, and every numeric cell of Tables 1 and 2 and Supplementary Tables S2, S3, S5, S6 and S7. Columns: `value` as printed; `location` (section and line numbers of the revised manuscript, or table, row and column); `kind` (computed, table, record, external or structural); `source` data file; `column_or_computation`; `reproduced` value from the code below; `match`.
+`numbers_v16.csv` lists every number in the abstract, highlights, main text, table footnotes and figure legends of the paper, and every numeric cell of Tables 1 and 2 and Supplementary Tables S2, S3, S5, S6 and S7. Columns: `value` as printed; `location` (section and line numbers of the revised manuscript, or table, row and column); `kind` (computed, table, record, external or structural); `source` data file; `column_or_computation`; `reproduced` value from the code below; `match`.
 
 ### code/
 

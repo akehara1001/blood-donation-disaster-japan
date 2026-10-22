@@ -11,6 +11,7 @@ import csv
 import hashlib
 import io
 import math
+import os
 import statistics as st
 import sys
 from pathlib import Path
@@ -455,11 +456,18 @@ def min_font_pt(fig) -> float:
 
 
 def export(fig, outdir: Path, name: str, align: bool = False) -> dict:
-    if align:
-        sys.path.insert(0, str(Path.home() / ".claude" / "skills" / "nature-figure" / "scripts"))
-        from audit_panel_alignment import require_matplotlib_panel_alignment
-        require_matplotlib_panel_alignment(fig, json_out=str(outdir / f"{name}.alignment.json"),
-                                           tolerance_pt=1.5, gutter_tolerance_pt=1.5, strict=False)
+    # Optional panel-alignment check: runs only when FIGURE_ALIGNMENT_AUDIT_DIR points to a directory that
+    # provides audit_panel_alignment; otherwise the check is skipped and the figure is still written.
+    audit_dir = os.environ.get("FIGURE_ALIGNMENT_AUDIT_DIR")
+    if align and audit_dir:
+        sys.path.insert(0, audit_dir)
+        try:
+            from audit_panel_alignment import require_matplotlib_panel_alignment
+        except ImportError:
+            print(f"  {name}: audit_panel_alignment not found in FIGURE_ALIGNMENT_AUDIT_DIR; alignment check skipped")
+        else:
+            require_matplotlib_panel_alignment(fig, json_out=str(outdir / f"{name}.alignment.json"),
+                                               tolerance_pt=1.5, gutter_tolerance_pt=1.5, strict=False)
     mn = min_font_pt(fig)
     if mn < MIN_PT:
         raise RuntimeError(f"{name}: 最小の字 {mn} pt < {MIN_PT}")
