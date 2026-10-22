@@ -1,0 +1,817 @@
+id,value,location,kind,source,column_or_computation,reproduced,match
+1,2011,"Abstract (Background and Objectives), lines 77-81",structural,,year,,n/a
+2,2024,"Abstract (Background and Objectives), lines 77-81",structural,,year,,n/a
+3,47,"Abstract (Materials and Methods), lines 82-87",structural,,design count,,n/a
+4,15,"Abstract (Materials and Methods), lines 82-87",structural,,age range,,n/a
+5,69,"Abstract (Materials and Methods), lines 82-87",structural,,age range,,n/a
+6,15,"Abstract (Materials and Methods), lines 82-87",structural,,age range,,n/a
+7,69,"Abstract (Materials and Methods), lines 82-87",structural,,age range,,n/a
+8,2009,"Abstract (Materials and Methods), lines 82-87",structural,,year,,n/a
+9,19.19,"Abstract (Results), lines 88-96",computed,data/decomposition.csv (two-year deviation),"|deviation|, Fukushima, FY2011",19.19,yes
+10,19.13,"Abstract (Results), lines 88-96",computed,data/decomposition.csv (two-year deviation),"|deviation|, Miyagi, FY2011",19.13,yes
+11,15.88,"Abstract (Results), lines 88-96",computed,data/decomposition.csv (two-year deviation),"|deviation|, Iwate, FY2011",15.88,yes
+12,37,"Abstract (Results), lines 88-96",record,data/ts_ops_days.csv,Table S1 (Iwate blood buses; shortest of the three prefectures),,n/a
+13,58,"Abstract (Results), lines 88-96",record,data/ts_ops_days.csv,"Table S1 (Fukushima, blood bus at Koriyama Station; longest)",,n/a
+14,−12.32,"Abstract (Results), lines 88-96",computed,data/decomposition.csv; output/tables/table_s3_evacuees.csv,"dln_r, Fukushima, FY2011; r unadjusted, Fukushima",−12.32,yes
+15,−8.13,"Abstract (Results), lines 88-96",computed,output/tables/table_s3_evacuees.csv,"r removed, all aged 15 to 69, Fukushima",−8.13,yes
+16,2011,"Highlights, lines 104-105",structural,,year,,n/a
+17,1,"Highlights, lines 110-110",structural,,section number,,n/a
+18,1,"Section 1, lines 111-117",structural,,reference number,,n/a
+19,2,"Section 1, lines 111-117",structural,,reference number,,n/a
+20,1,"Section 1, lines 111-117",structural,,reference number,,n/a
+21,3,"Section 1, lines 118-129",structural,,reference number,,n/a
+22,4,"Section 1, lines 118-129",structural,,reference number,,n/a
+23,5,"Section 1, lines 118-129",structural,,reference number,,n/a
+24,6,"Section 1, lines 118-129",structural,,reference number,,n/a
+25,7,"Section 1, lines 118-129",structural,,reference number,,n/a
+26,2,"Section 1, lines 118-129",structural,,reference number,,n/a
+27,2016,"Section 1, lines 118-129",structural,,year,,n/a
+28,1,"Section 1, lines 118-129",structural,,reference number,,n/a
+29,1995,"Section 1, lines 118-129",structural,,year,,n/a
+30,8,"Section 1, lines 118-129",structural,,reference number,,n/a
+31,1,"Section 1, lines 130-142",structural,,figure or table number,,n/a
+32,11,"Section 1, lines 130-142",structural,,date,,n/a
+33,2011,"Section 1, lines 130-142",structural,,year,,n/a
+34,9.0,"Section 1, lines 130-142",external,[9],,,n/a
+35,1,"Section 1, lines 130-142",structural,,date,,n/a
+36,2022,"Section 1, lines 130-142",structural,,year,,n/a
+37,"19,759","Section 1, lines 130-142",external,[9],,,n/a
+38,"2,553","Section 1, lines 130-142",external,[9],,,n/a
+39,"122,006","Section 1, lines 130-142",external,[9],,,n/a
+40,9,"Section 1, lines 130-142",structural,,reference number,,n/a
+41,99%,"Section 1, lines 130-142",external,[10],,,n/a
+42,10,"Section 1, lines 130-142",structural,,reference number,,n/a
+43,11,"Section 1, lines 130-142",structural,,reference number,,n/a
+44,20,"Section 1, lines 143-146",structural,,design count,,n/a
+45,47,"Section 1, lines 143-146",structural,,design count,,n/a
+46,2,"Section 1, lines 147-147",structural,,section number,,n/a
+47,2.1,"Section 2, lines 148-148",structural,,section number,,n/a
+48,2012,"Section 2.1, lines 149-158",structural,,year,,n/a
+49,12,"Section 2.1, lines 149-158",structural,,reference number,,n/a
+50,16,"Section 2.1, lines 149-158",structural,,age range,,n/a
+51,69,"Section 2.1, lines 149-158",structural,,age range,,n/a
+52,15,"Section 2.1, lines 149-158",structural,,age range,,n/a
+53,19,"Section 2.1, lines 149-158",structural,,age range,,n/a
+54,1,"Section 2.1, lines 149-158",structural,,date,,n/a
+55,31,"Section 2.1, lines 149-158",structural,,date,,n/a
+56,11,"Section 2.1, lines 149-158",structural,,date,,n/a
+57,2011,"Section 2.1, lines 149-158",structural,,year,,n/a
+58,2,"Section 2.1, lines 149-158",structural,,figure or table number,,n/a
+59,2.2,"Section 2.1, lines 159-159",structural,,section number,,n/a
+60,5,"Section 2.2, lines 160-170",structural,,design value (5-year age band),,n/a
+61,1,"Section 2.2, lines 160-170",structural,,date,,n/a
+62,22,"Section 2.2, lines 160-170",structural,,date,,n/a
+63,2011,"Section 2.2, lines 160-170",structural,,year,,n/a
+64,11,"Section 2.2, lines 160-170",structural,,reference number,,n/a
+65,2.3,"Section 2.2, lines 171-171",structural,,section number,,n/a
+66,15,"Section 2.3, lines 177-179",structural,,age range,,n/a
+67,69,"Section 2.3, lines 177-179",structural,,age range,,n/a
+68,15,"Section 2.3, lines 181-186",structural,,age range,,n/a
+69,69,"Section 2.3, lines 181-186",structural,,age range,,n/a
+70,3,"Section 2.3, lines 181-186",structural,,figure or table number,,n/a
+71,1,"Section 2.3, lines 181-186",structural,,figure or table number,,n/a
+72,2,"Section 2.3, lines 181-186",structural,,figure or table number,,n/a
+73,100,"Section 2.3, lines 187-193",structural,,formula constant,,n/a
+74,100,"Section 2.3, lines 187-193",structural,,formula constant,,n/a
+75,100,"Section 2.3, lines 187-193",structural,,formula constant,,n/a
+76,1,"Section 2.3, lines 187-193",structural,,formula constant,,n/a
+77,16.92,"Section 2.3, lines 187-193",computed,data/decomposition.csv,"|dln_D|, Fukushima, FY2011",16.92,yes
+78,3.74,"Section 2.3, lines 187-193",computed,data/decomposition.csv,"|dln_P|, Fukushima, FY2011",3.74,yes
+79,0.86,"Section 2.3, lines 187-193",computed,data/decomposition.csv,"|dln_s|, Fukushima, FY2011",0.86,yes
+80,12.32,"Section 2.3, lines 187-193",computed,data/decomposition.csv,"|dln_r|, Fukushima, FY2011",12.32,yes
+81,84.4%,"Section 2.3, lines 187-193",computed,data/decomposition.csv,"exp(dln_D/100) x 100, Fukushima, FY2011",84.4%,yes
+82,15,"Section 2.3, lines 194-198",structural,,age range,,n/a
+83,69,"Section 2.3, lines 194-198",structural,,age range,,n/a
+84,2.4,"Section 2.3, lines 199-200",structural,,section number,,n/a
+85,13,"Section 2.4, lines 209-222",structural,,design count,,n/a
+86,7,"Section 2.4, lines 209-222",structural,,scale value (seismic intensity 7),,n/a
+87,2007,"Section 2.4, lines 209-222",structural,,year,,n/a
+88,2018,"Section 2.4, lines 209-222",structural,,year,,n/a
+89,99%,"Section 2.4, lines 209-222",external,[10],,,n/a
+90,10,"Section 2.4, lines 209-222",structural,,reference number,,n/a
+91,44,"Section 2.4, lines 209-222",structural,,design count,,n/a
+92,46,"Section 2.4, lines 209-222",structural,,design count,,n/a
+93,4,"Section 2.4, lines 209-222",structural,,figure or table number,,n/a
+94,1,"Section 2.4, lines 209-222",structural,,figure or table number,,n/a
+95,11,"Section 2.4, lines 225-231",structural,,reference number,,n/a
+96,+7.06%,"Section 2.4, lines 225-231",computed,data/decomposition.csv,"D_donors FY2010 / FY2009 - 1, Fukushima",+7.06%,yes
+97,+0.6%,"Section 2.4, lines 225-231",computed,data/decomposition.csv,"D_donors FY2010 / FY2009 - 1, Japan",+0.6%,yes
+98,2.5,"Section 2.4, lines 237-237",structural,,section number,,n/a
+99,15,"Section 2.5, lines 241-244",structural,,age range,,n/a
+100,69,"Section 2.5, lines 241-244",structural,,age range,,n/a
+101,5,"Section 2.5, lines 241-244",structural,,figure or table number,,n/a
+102,69,"Section 2.5, lines 248-250",structural,,age range,,n/a
+103,69,"Section 2.5, equation",structural,,age range,,n/a
+104,15,"Section 2.5, lines 252-258",structural,,age range,,n/a
+105,69,"Section 2.5, lines 252-258",structural,,age range,,n/a
+106,16,"Section 2.5, lines 252-258",structural,,age range,,n/a
+107,19,"Section 2.5, lines 252-258",structural,,age range,,n/a
+108,15,"Section 2.5, lines 252-258",structural,,age range,,n/a
+109,19,"Section 2.5, lines 252-258",structural,,age range,,n/a
+110,20,"Section 2.5, lines 252-258",structural,,age range,,n/a
+111,69,"Section 2.5, lines 252-258",structural,,age range,,n/a
+112,5,"Section 2.5, lines 259-261",structural,,figure or table number,,n/a
+113,2,"Section 2.5, lines 259-261",structural,,figure or table number,,n/a
+114,2.6,"Section 2.5, lines 262-262",structural,,section number,,n/a
+115,940,"Section 2.6, lines 263-273",structural,,design count,,n/a
+116,47,"Section 2.6, lines 263-273",structural,,design count,,n/a
+117,2,"Section 2.6, lines 263-273",structural,,figure or table number,,n/a
+118,15,"Section 2.6, lines 263-273",structural,,age range,,n/a
+119,69,"Section 2.6, lines 263-273",structural,,age range,,n/a
+120,3,"Section 2.6, lines 279-279",structural,,section number,,n/a
+121,3.1,"Section 3, lines 280-280",structural,,section number,,n/a
+122,2,"Section 3.1, lines 281-285",structural,,figure or table number,,n/a
+123,47,"Section 3.1, lines 281-285",structural,,design count,,n/a
+124,+5.89,"Section 3.1, lines 281-285",computed,data/decomposition.csv,"median of dln_r over 47 prefectures, FY2011",+5.89,yes
+125,15,"Section 3.1, lines 281-285",structural,,age range,,n/a
+126,69,"Section 3.1, lines 281-285",structural,,age range,,n/a
+127,6%,"Section 3.1, lines 281-285",computed,data/decomposition.csv,exp(median FY2011/100) - 1,6%,yes
+128,+8.51,"Section 3.1, lines 281-285",computed,data/decomposition.csv,"median of dln_r over 47 prefectures, FY2024; dln_r, Iwate, FY2024",+8.51,yes
+129,3.2,"Section 3.1, lines 286-287",structural,,section number,,n/a
+130,3,"Section 3.2, lines 288-295",structural,,figure or table number,,n/a
+131,−3.74,"Section 3.2, lines 288-295",computed,data/decomposition.csv,"dln_P, Fukushima, FY2011",−3.74,yes
+132,−0.86,"Section 3.2, lines 288-295",computed,data/decomposition.csv,"dln_s, Fukushima, FY2011",−0.86,yes
+133,−4.60,"Section 3.2, lines 288-295",computed,data/decomposition.csv,"dln_P + dln_s, Fukushima, FY2011",−4.60,yes
+134,−16.92,"Section 3.2, lines 288-295",computed,data/decomposition.csv,"dln_D, Fukushima, FY2011",−16.92,yes
+135,−12.32,"Section 3.2, lines 288-295",computed,data/decomposition.csv; output/tables/table_s3_evacuees.csv,"dln_r, Fukushima, FY2011; r unadjusted, Fukushima",−12.32,yes
+136,−18.23,"Section 3.2, lines 288-295",computed,data/decomposition.csv,"dln_D, Miyagi, FY2011",−18.23,yes
+137,−16.07,"Section 3.2, lines 288-295",computed,data/decomposition.csv,"dln_r, Miyagi, FY2011",−16.07,yes
+138,−2.17,"Section 3.2, lines 288-295",computed,data/decomposition.csv,"dln_P + dln_s, Miyagi, FY2011",−2.17,yes
+139,−8.91,"Section 3.2, lines 288-295",computed,data/decomposition.csv,"dln_D, Iwate, FY2011",−8.91,yes
+140,−5.59,"Section 3.2, lines 288-295",computed,data/decomposition.csv,"dln_P + dln_s, Iwate, FY2011",−5.59,yes
+141,−3.32,"Section 3.2, lines 288-295",computed,data/decomposition.csv,"dln_r, Iwate, FY2011",−3.32,yes
+142,4,"Section 3.2, lines 296-302",structural,,figure or table number,,n/a
+143,1,"Section 3.2, lines 296-302",structural,,figure or table number,,n/a
+144,−15.91,"Section 3.2, lines 296-302",computed,data/decomposition.csv,"two-year change in dln_r, Fukushima, FY2009-FY2011",−15.91,yes
+145,+3.28,"Section 3.2, lines 296-302",computed,data/decomposition.csv (comparison median),"median two-year change, Great East Japan Earthquake; median two-year change, Great East Japan Earthquake; median two-year change, Great East Japan Earthquake",+3.28,yes
+146,44,"Section 3.2, lines 296-302",structural,,design count,,n/a
+147,−19.19,"Section 3.2, lines 296-302",computed,data/decomposition.csv (two-year deviation),"dln_r, Fukushima, FY2011",−19.19,yes
+148,−19.13,"Section 3.2, lines 296-302",computed,data/decomposition.csv (two-year deviation),"dln_r, Miyagi, FY2011",−19.13,yes
+149,−15.88,"Section 3.2, lines 296-302",computed,data/decomposition.csv (two-year deviation),"dln_r, Iwate, FY2011",−15.88,yes
+150,940,"Section 3.2, lines 296-302",structural,,design count,,n/a
+151,0.9,"Section 3.2, lines 296-302",computed,data/decomposition.csv,"empirical percentile of dln_r, Miyagi, FY2011",0.9,yes
+152,2.61,"Section 3.2, lines 296-302",computed,data/decomposition.csv,"empirical percentile of dln_r, Fukushima, FY2011",2.61,yes
+153,19.63,"Section 3.2, lines 296-302",computed,data/decomposition.csv,"empirical percentile of dln_r, Iwate, FY2011",19.63,yes
+154,2.57,"Section 3.2, lines 303-307",computed,output/tables/table_s6.csv,"two-year contribution, Fukushima",2.57,yes
+155,4.23,"Section 3.2, lines 303-307",computed,output/tables/table_s6.csv,"two-year contribution, Iwate",4.23,yes
+156,−4.35,"Section 3.2, lines 303-307",computed,output/tables/table_s6.csv,"two-year contribution, Miyagi",−4.35,yes
+157,23%,"Section 3.2, lines 303-307",computed,output/tables/table_s6.csv,"contribution / deviation, Miyagi",23%,yes
+158,22,"Section 3.2, lines 308-313",structural,,date,,n/a
+159,2011,"Section 3.2, lines 308-313",structural,,year,,n/a
+160,"55,024","Section 3.2, lines 308-313",computed,data/evacuees_outside_prefecture.csv,"outside_fukushima, FY2011, series B (22 Sep 2011)","55,024",yes
+161,15,"Section 3.2, lines 308-313",structural,,age range,,n/a
+162,69,"Section 3.2, lines 308-313",structural,,age range,,n/a
+163,−12.32,"Section 3.2, lines 308-313",computed,data/decomposition.csv; output/tables/table_s3_evacuees.csv,"dln_r, Fukushima, FY2011; r unadjusted, Fukushima",−12.32,yes
+164,−8.13,"Section 3.2, lines 308-313",computed,output/tables/table_s3_evacuees.csv,"r removed, all aged 15 to 69, Fukushima",−8.13,yes
+165,0.52,"Section 3.2, lines 308-313",computed,output/tables/table_s3_evacuees.csv,"shift in r, Miyagi, all aged 15 to 69",0.52,yes
+166,20,"Section 3.2, lines 308-313",structural,,age range,,n/a
+167,69,"Section 3.2, lines 308-313",structural,,age range,,n/a
+168,1,"Section 3.2, lines 308-313",computed,output/tables/table_s3.csv,"max |row f - row a| deviation, three prefectures (< 1 log point)",1,yes
+169,3.3,"Section 3.2, lines 314-314",structural,,section number,,n/a
+170,4,"Section 3.3, lines 315-321",structural,,figure or table number,,n/a
+171,13,"Section 3.3, lines 315-321",structural,,design count,,n/a
+172,2011,"Section 3.3, lines 315-321",structural,,year,,n/a
+173,2016,"Section 3.3, lines 315-321",structural,,year,,n/a
+174,−19.19,"Section 3.3, lines 315-321",computed,data/decomposition.csv (two-year deviation),"dln_r, Fukushima, FY2011",−19.19,yes
+175,−15.12,"Section 3.3, lines 315-321",computed,data/decomposition.csv (two-year deviation),"dln_r, Kumamoto, FY2016",−15.12,yes
+176,12.10,"Section 3.3, lines 315-321",computed,output/tables/table_s5.csv,"gap between the two groups, main rule",12.10,yes
+177,−3.17,"Section 3.3, lines 315-321",computed,output/tables/table_s5.csv,"Kumamoto, alternative rule, deviation",−3.17,yes
+178,10,"Section 3.3, lines 315-321",computed,output/tables/table_s5.csv,"Kumamoto, alternative rule, rank (10th of 47)",10,yes
+179,47,"Section 3.3, lines 315-321",structural,,design count,,n/a
+180,0.15,"Section 3.3, lines 315-321",computed,output/tables/table_s5.csv,"gap between the two groups, alternative rule",0.15,yes
+181,−3.02,"Section 3.3, lines 322-323",computed,output/tables/table_s5.csv,lowest of the other nine,−3.02,yes
+182,+7.45,"Section 3.3, lines 322-323",computed,output/tables/table_s5.csv,highest of the other nine,+7.45,yes
+183,9,"Section 3.3, lines 322-323",computed,output/tables/table_s5.csv,lowest rank among the other nine (9th of 45),9,yes
+184,45,"Section 3.3, lines 322-323",computed,output/tables/table_s5.csv,size of that comparison set plus the prefecture,45,yes
+185,3.4,"Section 3.3, lines 324-324",structural,,section number,,n/a
+186,3,"Section 3.4, lines 325-331",structural,,figure or table number,,n/a
+187,2,"Section 3.4, lines 325-331",structural,,figure or table number,,n/a
+188,+5.66,"Section 3.4, lines 325-331",computed,data/decomposition.csv,"dln_r, Fukushima, FY2024",+5.66,yes
+189,+5.34,"Section 3.4, lines 325-331",computed,data/decomposition.csv,"dln_r, Miyagi, FY2024",+5.34,yes
+190,+8.51,"Section 3.4, lines 325-331",computed,data/decomposition.csv,"median of dln_r over 47 prefectures, FY2024; dln_r, Iwate, FY2024",+8.51,yes
+191,−23.90,"Section 3.4, lines 325-331",computed,data/decomposition.csv,"dln_P + dln_s, Fukushima, FY2024",−23.90,yes
+192,−11.54,"Section 3.4, lines 325-331",computed,data/decomposition.csv,"dln_P + dln_s, Miyagi, FY2024",−11.54,yes
+193,−26.17,"Section 3.4, lines 325-331",computed,data/decomposition.csv,"dln_P + dln_s, Iwate, FY2024",−26.17,yes
+194,2,"Section 3.4, lines 325-331",structural,,figure or table number,,n/a
+195,2,"Section 3.4, lines 332-338",structural,,figure or table number,,n/a
+196,5,"Section 3.4, lines 332-338",structural,,figure or table number,,n/a
+197,+5.62,"Section 3.4, lines 332-338",computed,data/age_standardized.csv,"dln_SDR, schedule B, Fukushima, FY2024",+5.62,yes
+198,+9.90,"Section 3.4, lines 332-338",computed,data/age_standardized.csv,"dln_SDR, schedule C, Fukushima, FY2024",+9.90,yes
+199,+5.66,"Section 3.4, lines 332-338",computed,data/decomposition.csv,"dln_r, Fukushima, FY2024",+5.66,yes
+200,17,"Section 3.4, lines 339-343",computed,data/decomposition.csv,"comparison prefectures with dln_P + dln_s <= -20, FY2024",17,yes
+201,−20,"Section 3.4, lines 339-343",structural,,design value (grouping in Figure S2),,n/a
+202,13,"Section 3.4, lines 339-343",computed,data/decomposition.csv,"of those, dln_r > 0 and dln_D < 0, FY2024",13,yes
+203,4,"Section 3.4, lines 344-344",structural,,section number,,n/a
+204,2011,"Discussion, lines 347-351",structural,,year,,n/a
+205,3,"Discussion, lines 347-351",structural,,figure or table number,,n/a
+206,1,"Discussion, lines 347-351",structural,,figure or table number,,n/a
+207,37,"Discussion, lines 352-359",record,data/ts_ops_days.csv,Table S1 (Iwate blood buses; shortest of the three prefectures),,n/a
+208,58,"Discussion, lines 352-359",record,data/ts_ops_days.csv,"Table S1 (Fukushima, blood bus at Koriyama Station; longest)",,n/a
+209,11,"Discussion, lines 352-359",structural,,reference number,,n/a
+210,20%,"Discussion, lines 352-359",record,data/ts_ops_days.csv,Table S1 (Miyagi rooms; Yamagata),,n/a
+211,10%,"Discussion, lines 352-359",record,data/ts_ops_days.csv,Table S1 (Akita),,n/a
+212,20%,"Discussion, lines 352-359",structural,,age range,,n/a
+213,60,"Discussion, lines 352-359",record,data/ts_ops_days.csv,Table S1 (Yamagata),,n/a
+214,100,"Discussion, lines 352-359",record,data/ts_ops_days.csv,Table S1 (Akita),,n/a
+215,11,"Discussion, lines 352-359",structural,,reference number,,n/a
+216,3,"Discussion, lines 360-365",structural,,reference number,,n/a
+217,4,"Discussion, lines 360-365",structural,,reference number,,n/a
+218,5,"Discussion, lines 360-365",structural,,reference number,,n/a
+219,6,"Discussion, lines 360-365",structural,,reference number,,n/a
+220,7,"Discussion, lines 360-365",structural,,reference number,,n/a
+221,2011,"Discussion, lines 360-365",structural,,year,,n/a
+222,2011,"Discussion, lines 366-369",structural,,year,,n/a
+223,2016,"Discussion, lines 366-369",structural,,year,,n/a
+224,4,"Discussion, lines 366-369",structural,,figure or table number,,n/a
+225,13,"Discussion, lines 366-369",structural,,design count,,n/a
+226,3,"Discussion, lines 370-376",structural,,figure or table number,,n/a
+227,2,"Discussion, lines 370-376",structural,,figure or table number,,n/a
+228,1,"Discussion, lines 377-385",structural,,reference number,,n/a
+229,65,"Discussion, lines 377-385",record,data/ts_ops_days.csv,"Table S1 (Miyagi, components from other centres)",,n/a
+230,11,"Discussion, lines 377-385",structural,,reference number,,n/a
+231,2012,"Discussion, lines 377-385",structural,,year,,n/a
+232,12,"Discussion, lines 377-385",structural,,reference number,,n/a
+233,2012,"Discussion, lines 396-404",structural,,year,,n/a
+234,19,"Discussion, lines 396-404",structural,,name (COVID-19),,n/a
+235,2011,"Discussion, lines 396-404",structural,,year,,n/a
+236,200,"Discussion, lines 405-410",structural,,design count,,n/a
+237,400,"Discussion, lines 405-410",structural,,design count,,n/a
+238,13,"Discussion, lines 411-416",structural,,design count,,n/a
+239,2011,"Discussion, lines 417-423",structural,,year,,n/a
+240,1,"Discussion, lines 464-465",structural,,figure or table number,,n/a
+241,44,"Table 1 footnote, lines 466-469",structural,,design count,,n/a
+242,46,"Table 1 footnote, lines 466-469",structural,,design count,,n/a
+243,+3.28,"Table 1 footnote, lines 466-469",computed,data/decomposition.csv (comparison median),"median two-year change, Great East Japan Earthquake; median two-year change, Great East Japan Earthquake; median two-year change, Great East Japan Earthquake",+3.28,yes
+244,−3.63,"Table 1 footnote, lines 466-469",computed,data/decomposition.csv (comparison median),"median two-year change, Kumamoto Earthquake",−3.63,yes
+245,2,"Discussion, lines 470-471",structural,,figure or table number,,n/a
+246,2009,"Table 2 footnote, lines 472-474",structural,,year,,n/a
+247,47,"Table 2 footnote, lines 472-474",structural,,design count,,n/a
+248,100,"Table 2 footnote, lines 472-474",structural,,formula constant,,n/a
+249,100,"Table 2 footnote, lines 472-474",structural,,formula constant,,n/a
+250,1,"Figure 1 legend, lines 476-481",structural,,figure or table number,,n/a
+251,11,"Figure 1 legend, lines 476-481",structural,,date,,n/a
+252,2011,"Figure 1 legend, lines 476-481",structural,,year,,n/a
+253,2,"Figure 2 legend, lines 483-486",structural,,figure or table number,,n/a
+254,47,"Figure 2 legend, lines 483-486",structural,,design count,,n/a
+255,2009,"Figure 2 legend, lines 483-486",structural,,year,,n/a
+256,19,"Figure 2 legend, lines 483-486",structural,,name (COVID-19),,n/a
+257,3,"Figure 3 legend, lines 488-492",structural,,figure or table number,,n/a
+258,2011,"Figure 3 legend, lines 488-492",structural,,year,,n/a
+259,2009,"Figure 3 legend, lines 488-492",structural,,year,,n/a
+260,4,"Figure 4 legend, lines 494-495",structural,,figure or table number,,n/a
+261,5,"Figure 5 legend, lines 497-499",structural,,figure or table number,,n/a
+262,10,"Figure 5 legend, lines 497-499",structural,,age-group label,,n/a
+263,15,"Figure 5 legend, lines 497-499",structural,,age range,,n/a
+264,19,"Figure 5 legend, lines 497-499",structural,,age range,,n/a
+265,2011,"Table 1, row 1 (Fukushima), column 'First post-event FY'",table,data/decomposition.csv,"code/reproduce_tables.py table1(), column 'First post-event FY'",2011,yes
+266,−12.322,"Table 1, row 1 (Fukushima), column 'Cumulative Δln r (log pts, vs FY2005–2009 geometric mean)'",table,data/decomposition.csv,"code/reproduce_tables.py table1(), column 'Cumulative dln r'",−12.322,yes
+267,2.606,"Table 1, row 1 (Fukushima), column 'Empirical percentile'",table,data/decomposition.csv,"code/reproduce_tables.py table1(), column 'Empirical percentile'",2.606,yes
+268,−19.19,"Table 1, row 1 (Fukushima), column 'Deviation from comparison median (two-year change)'",table,data/decomposition.csv,"code/reproduce_tables.py table1(), column 'Deviation from comparison median'",−19.19,yes
+269,−6.56,"Table 1, row 1 (Fukushima), column 'Standardised vs own pre-event'",table,data/decomposition.csv,"code/reproduce_tables.py table1(), column 'Standardised vs own pre-event'",−6.56,yes
+270,3,"Table 1, row 1 (Fukushima), column 'Pre-event n'",table,data/decomposition.csv,"code/reproduce_tables.py table1(), column 'Pre-event n'",3,yes
+271,2011,"Table 1, row 2 (Miyagi), column 'First post-event FY'",table,data/decomposition.csv,"code/reproduce_tables.py table1(), column 'First post-event FY'",2011,yes
+272,−16.069,"Table 1, row 2 (Miyagi), column 'Cumulative Δln r (log pts, vs FY2005–2009 geometric mean)'",table,data/decomposition.csv,"code/reproduce_tables.py table1(), column 'Cumulative dln r'",−16.069,yes
+273,0.904,"Table 1, row 2 (Miyagi), column 'Empirical percentile'",table,data/decomposition.csv,"code/reproduce_tables.py table1(), column 'Empirical percentile'",0.904,yes
+274,−19.13,"Table 1, row 2 (Miyagi), column 'Deviation from comparison median (two-year change)'",table,data/decomposition.csv,"code/reproduce_tables.py table1(), column 'Deviation from comparison median'",−19.13,yes
+275,−4.04,"Table 1, row 2 (Miyagi), column 'Standardised vs own pre-event'",table,data/decomposition.csv,"code/reproduce_tables.py table1(), column 'Standardised vs own pre-event'",−4.04,yes
+276,3,"Table 1, row 2 (Miyagi), column 'Pre-event n'",table,data/decomposition.csv,"code/reproduce_tables.py table1(), column 'Pre-event n'",3,yes
+277,2011,"Table 1, row 3 (Iwate), column 'First post-event FY'",table,data/decomposition.csv,"code/reproduce_tables.py table1(), column 'First post-event FY'",2011,yes
+278,−3.317,"Table 1, row 3 (Iwate), column 'Cumulative Δln r (log pts, vs FY2005–2009 geometric mean)'",table,data/decomposition.csv,"code/reproduce_tables.py table1(), column 'Cumulative dln r'",−3.317,yes
+279,19.628,"Table 1, row 3 (Iwate), column 'Empirical percentile'",table,data/decomposition.csv,"code/reproduce_tables.py table1(), column 'Empirical percentile'",19.628,yes
+280,−15.88,"Table 1, row 3 (Iwate), column 'Deviation from comparison median (two-year change)'",table,data/decomposition.csv,"code/reproduce_tables.py table1(), column 'Deviation from comparison median'",−15.88,yes
+281,−3.40,"Table 1, row 3 (Iwate), column 'Standardised vs own pre-event'",table,data/decomposition.csv,"code/reproduce_tables.py table1(), column 'Standardised vs own pre-event'",−3.40,yes
+282,3,"Table 1, row 3 (Iwate), column 'Pre-event n'",table,data/decomposition.csv,"code/reproduce_tables.py table1(), column 'Pre-event n'",3,yes
+283,2016,"Table 1, row 4 (Kumamoto), column 'First post-event FY'",table,data/decomposition.csv,"code/reproduce_tables.py table1(), column 'First post-event FY'",2016,yes
+284,−22.407,"Table 1, row 4 (Kumamoto), column 'Cumulative Δln r (log pts, vs FY2005–2009 geometric mean)'",table,data/decomposition.csv,"code/reproduce_tables.py table1(), column 'Cumulative dln r'",−22.407,yes
+285,0.372,"Table 1, row 4 (Kumamoto), column 'Empirical percentile'",table,data/decomposition.csv,"code/reproduce_tables.py table1(), column 'Empirical percentile'",0.372,yes
+286,−15.12,"Table 1, row 4 (Kumamoto), column 'Deviation from comparison median (two-year change)'",table,data/decomposition.csv,"code/reproduce_tables.py table1(), column 'Deviation from comparison median'",−15.12,yes
+287,−8.89,"Table 1, row 4 (Kumamoto), column 'Standardised vs own pre-event'",table,data/decomposition.csv,"code/reproduce_tables.py table1(), column 'Standardised vs own pre-event'",−8.89,yes
+288,5,"Table 1, row 4 (Kumamoto), column 'Pre-event n'",table,data/decomposition.csv,"code/reproduce_tables.py table1(), column 'Pre-event n'",5,yes
+289,−18.246,"Table 2, row 1 (Fukushima), column 'Δln D'",table,data/decomposition.csv; data/age_standardized.csv,"code/reproduce_tables.py table2(), column 'dln D'",−18.246,yes
+290,−16.997,"Table 2, row 1 (Fukushima), column 'Δln P'",table,data/decomposition.csv; data/age_standardized.csv,"code/reproduce_tables.py table2(), column 'dln P'",−16.997,yes
+291,−6.905,"Table 2, row 1 (Fukushima), column 'Δln s'",table,data/decomposition.csv; data/age_standardized.csv,"code/reproduce_tables.py table2(), column 'dln s'",−6.905,yes
+292,5.655,"Table 2, row 1 (Fukushima), column 'Δln r'",table,data/decomposition.csv; data/age_standardized.csv,"code/reproduce_tables.py table2(), column 'dln r'",5.655,yes
+293,−23.901,"Table 2, row 1 (Fukushima), column 'Demographic part'",table,data/decomposition.csv; data/age_standardized.csv,"code/reproduce_tables.py table2(), column 'Demographic part'",−23.901,yes
+294,40/47,"Table 2, row 1 (Fukushima), column 'Rank Δln D'",table,data/decomposition.csv; data/age_standardized.csv,"code/reproduce_tables.py table2(), column 'Rank dln D'",40/47,yes
+295,31/47,"Table 2, row 1 (Fukushima), column 'Rank Δln r'",table,data/decomposition.csv; data/age_standardized.csv,"code/reproduce_tables.py table2(), column 'Rank dln r'",31/47,yes
+296,9.65,"Table 2, row 1 (Fukushima), column 'Δln SDR (FY2011 sch.)'",table,data/decomposition.csv; data/age_standardized.csv,"code/reproduce_tables.py table2(), column 'dln SDR (FY2011 sch.)'",9.65,yes
+297,5.62,"Table 2, row 1 (Fukushima), column 'Δln SDR (FY2024 sch.)'",table,data/decomposition.csv; data/age_standardized.csv,"code/reproduce_tables.py table2(), column 'dln SDR (FY2024 sch.)'",5.62,yes
+298,9.90,"Table 2, row 1 (Fukushima), column 'Δln SDR (FY2010 sch.)'",table,data/decomposition.csv; data/age_standardized.csv,"code/reproduce_tables.py table2(), column 'dln SDR (FY2010 sch.)'",9.90,yes
+299,83.3,"Table 2, row 1 (Fukushima), column 'Index crude'",table,data/decomposition.csv; data/age_standardized.csv,"code/reproduce_tables.py table2(), column 'Index crude'",83.3,yes
+300,86.7,"Table 2, row 1 (Fukushima), column 'Index adjusted'",table,data/decomposition.csv; data/age_standardized.csv,"code/reproduce_tables.py table2(), column 'Index adjusted'",86.7,yes
+301,−6.208,"Table 2, row 2 (Miyagi), column 'Δln D'",table,data/decomposition.csv; data/age_standardized.csv,"code/reproduce_tables.py table2(), column 'dln D'",−6.208,yes
+302,−4.335,"Table 2, row 2 (Miyagi), column 'Δln P'",table,data/decomposition.csv; data/age_standardized.csv,"code/reproduce_tables.py table2(), column 'dln P'",−4.335,yes
+303,−7.209,"Table 2, row 2 (Miyagi), column 'Δln s'",table,data/decomposition.csv; data/age_standardized.csv,"code/reproduce_tables.py table2(), column 'dln s'",−7.209,yes
+304,5.336,"Table 2, row 2 (Miyagi), column 'Δln r'",table,data/decomposition.csv; data/age_standardized.csv,"code/reproduce_tables.py table2(), column 'dln r'",5.336,yes
+305,−11.544,"Table 2, row 2 (Miyagi), column 'Demographic part'",table,data/decomposition.csv; data/age_standardized.csv,"code/reproduce_tables.py table2(), column 'Demographic part'",−11.544,yes
+306,23/47,"Table 2, row 2 (Miyagi), column 'Rank Δln D'",table,data/decomposition.csv; data/age_standardized.csv,"code/reproduce_tables.py table2(), column 'Rank dln D'",23/47,yes
+307,32/47,"Table 2, row 2 (Miyagi), column 'Rank Δln r'",table,data/decomposition.csv; data/age_standardized.csv,"code/reproduce_tables.py table2(), column 'Rank dln r'",32/47,yes
+308,7.25,"Table 2, row 2 (Miyagi), column 'Δln SDR (FY2011 sch.)'",table,data/decomposition.csv; data/age_standardized.csv,"code/reproduce_tables.py table2(), column 'dln SDR (FY2011 sch.)'",7.25,yes
+309,4.48,"Table 2, row 2 (Miyagi), column 'Δln SDR (FY2024 sch.)'",table,data/decomposition.csv; data/age_standardized.csv,"code/reproduce_tables.py table2(), column 'dln SDR (FY2024 sch.)'",4.48,yes
+310,7.51,"Table 2, row 2 (Miyagi), column 'Δln SDR (FY2010 sch.)'",table,data/decomposition.csv; data/age_standardized.csv,"code/reproduce_tables.py table2(), column 'dln SDR (FY2010 sch.)'",7.51,yes
+311,94.0,"Table 2, row 2 (Miyagi), column 'Index crude'",table,data/decomposition.csv; data/age_standardized.csv,"code/reproduce_tables.py table2(), column 'Index crude'",94.0,yes
+312,95.8,"Table 2, row 2 (Miyagi), column 'Index adjusted'",table,data/decomposition.csv; data/age_standardized.csv,"code/reproduce_tables.py table2(), column 'Index adjusted'",95.8,yes
+313,−17.661,"Table 2, row 3 (Iwate), column 'Δln D'",table,data/decomposition.csv; data/age_standardized.csv,"code/reproduce_tables.py table2(), column 'dln D'",−17.661,yes
+314,−17.436,"Table 2, row 3 (Iwate), column 'Δln P'",table,data/decomposition.csv; data/age_standardized.csv,"code/reproduce_tables.py table2(), column 'dln P'",−17.436,yes
+315,−8.732,"Table 2, row 3 (Iwate), column 'Δln s'",table,data/decomposition.csv; data/age_standardized.csv,"code/reproduce_tables.py table2(), column 'dln s'",−8.732,yes
+316,8.508,"Table 2, row 3 (Iwate), column 'Δln r'",table,data/decomposition.csv; data/age_standardized.csv,"code/reproduce_tables.py table2(), column 'dln r'",8.508,yes
+317,−26.169,"Table 2, row 3 (Iwate), column 'Demographic part'",table,data/decomposition.csv; data/age_standardized.csv,"code/reproduce_tables.py table2(), column 'Demographic part'",−26.169,yes
+318,38/47,"Table 2, row 3 (Iwate), column 'Rank Δln D'",table,data/decomposition.csv; data/age_standardized.csv,"code/reproduce_tables.py table2(), column 'Rank dln D'",38/47,yes
+319,24/47,"Table 2, row 3 (Iwate), column 'Rank Δln r'",table,data/decomposition.csv; data/age_standardized.csv,"code/reproduce_tables.py table2(), column 'Rank dln r'",24/47,yes
+320,11.73,"Table 2, row 3 (Iwate), column 'Δln SDR (FY2011 sch.)'",table,data/decomposition.csv; data/age_standardized.csv,"code/reproduce_tables.py table2(), column 'dln SDR (FY2011 sch.)'",11.73,yes
+321,8.15,"Table 2, row 3 (Iwate), column 'Δln SDR (FY2024 sch.)'",table,data/decomposition.csv; data/age_standardized.csv,"code/reproduce_tables.py table2(), column 'dln SDR (FY2024 sch.)'",8.15,yes
+322,12.00,"Table 2, row 3 (Iwate), column 'Δln SDR (FY2010 sch.)'",table,data/decomposition.csv; data/age_standardized.csv,"code/reproduce_tables.py table2(), column 'dln SDR (FY2010 sch.)'",12.00,yes
+323,83.8,"Table 2, row 3 (Iwate), column 'Index crude'",table,data/decomposition.csv; data/age_standardized.csv,"code/reproduce_tables.py table2(), column 'Index crude'",83.8,yes
+324,86.6,"Table 2, row 3 (Iwate), column 'Index adjusted'",table,data/decomposition.csv; data/age_standardized.csv,"code/reproduce_tables.py table2(), column 'Index adjusted'",86.6,yes
+325,"5,003,723","Table S2, row 1 (Donations, D), column 'FY2023'",table,data/decomposition.csv; data/actual_donors_national.csv,"code/reproduce_tables.py table_s2(), column 'FY2023'","5,003,723",yes
+326,"5,013,064","Table S2, row 1 (Donations, D), column 'FY2024'",table,data/decomposition.csv; data/actual_donors_national.csv,"code/reproduce_tables.py table_s2(), column 'FY2024'","5,013,064",yes
+327,+0.187,"Table S2, row 1 (Donations, D), column 'Change (log points)✳'",table,data/decomposition.csv; data/actual_donors_national.csv,"code/reproduce_tables.py table_s2(), column 'Change (log points)'",+0.187,yes
+328,"124,352,000","Table S2, row 2 (Population, P), column 'FY2023'",table,data/decomposition.csv; data/actual_donors_national.csv,"code/reproduce_tables.py table_s2(), column 'FY2023'","124,352,000",yes
+329,"123,802,000","Table S2, row 2 (Population, P), column 'FY2024'",table,data/decomposition.csv; data/actual_donors_national.csv,"code/reproduce_tables.py table_s2(), column 'FY2024'","123,802,000",yes
+330,−0.443,"Table S2, row 2 (Population, P), column 'Change (log points)✳'",table,data/decomposition.csv; data/actual_donors_national.csv,"code/reproduce_tables.py table_s2(), column 'Change (log points)'",−0.443,yes
+331,65.366%,"Table S2, row 3 (Share aged 15 to 69, s), column 'FY2023'",table,data/decomposition.csv; data/actual_donors_national.csv,"code/reproduce_tables.py table_s2(), column 'FY2023'",65.366%,yes
+332,65.423%,"Table S2, row 3 (Share aged 15 to 69, s), column 'FY2024'",table,data/decomposition.csv; data/actual_donors_national.csv,"code/reproduce_tables.py table_s2(), column 'FY2024'",65.423%,yes
+333,+0.087,"Table S2, row 3 (Share aged 15 to 69, s), column 'Change (log points)✳'",table,data/decomposition.csv; data/actual_donors_national.csv,"code/reproduce_tables.py table_s2(), column 'Change (log points)'",+0.087,yes
+334,3.101%,"Table S2, row 4 (Residents aged 15 to 69 who donated, q = A/P15–69), column 'FY2023'",table,data/decomposition.csv; data/actual_donors_national.csv,"code/reproduce_tables.py table_s2(), column 'FY2023'",3.101%,yes
+335,3.074%,"Table S2, row 4 (Residents aged 15 to 69 who donated, q = A/P15–69), column 'FY2024'",table,data/decomposition.csv; data/actual_donors_national.csv,"code/reproduce_tables.py table_s2(), column 'FY2024'",3.074%,yes
+336,−0.876,"Table S2, row 4 (Residents aged 15 to 69 who donated, q = A/P15–69), column 'Change (log points)✳'",table,data/decomposition.csv; data/actual_donors_national.csv,"code/reproduce_tables.py table_s2(), column 'Change (log points)'",−0.876,yes
+337,1.985,"Table S2, row 5 (Donations per donor, f = D/A), column 'FY2023'",table,data/decomposition.csv; data/actual_donors_national.csv,"code/reproduce_tables.py table_s2(), column 'FY2023'",1.985,yes
+338,2.013,"Table S2, row 5 (Donations per donor, f = D/A), column 'FY2024'",table,data/decomposition.csv; data/actual_donors_national.csv,"code/reproduce_tables.py table_s2(), column 'FY2024'",2.013,yes
+339,+1.419,"Table S2, row 5 (Donations per donor, f = D/A), column 'Change (log points)✳'",table,data/decomposition.csv; data/actual_donors_national.csv,"code/reproduce_tables.py table_s2(), column 'Change (log points)'",+1.419,yes
+340,"2,520,980","Table S2, row 6 (Individual donors, A), column 'FY2023'",table,data/decomposition.csv; data/actual_donors_national.csv,"code/reproduce_tables.py table_s2(), column 'FY2023'","2,520,980",yes
+341,"2,490,112","Table S2, row 6 (Individual donors, A), column 'FY2024'",table,data/decomposition.csv; data/actual_donors_national.csv,"code/reproduce_tables.py table_s2(), column 'FY2024'","2,490,112",yes
+342,44,"Table S3, row 1 (a), column 'Comparison n'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Comparison n'",44,yes
+343,−15.91,"Table S3, row 1 (a), column 'Own difference (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Own difference (log pts)'",−15.91,yes
+344,+3.28,"Table S3, row 1 (a), column 'Comparison median (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Comparison median (log pts)'",+3.28,yes
+345,−19.19,"Table S3, row 1 (a), column 'Deviation (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Deviation (log pts)'",−19.19,yes
+346,44,"Table S3, row 2 (a), column 'Comparison n'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Comparison n'",44,yes
+347,−15.85,"Table S3, row 2 (a), column 'Own difference (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Own difference (log pts)'",−15.85,yes
+348,+3.28,"Table S3, row 2 (a), column 'Comparison median (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Comparison median (log pts)'",+3.28,yes
+349,−19.13,"Table S3, row 2 (a), column 'Deviation (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Deviation (log pts)'",−19.13,yes
+350,44,"Table S3, row 3 (a), column 'Comparison n'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Comparison n'",44,yes
+351,−12.60,"Table S3, row 3 (a), column 'Own difference (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Own difference (log pts)'",−12.60,yes
+352,+3.28,"Table S3, row 3 (a), column 'Comparison median (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Comparison median (log pts)'",+3.28,yes
+353,−15.88,"Table S3, row 3 (a), column 'Deviation (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Deviation (log pts)'",−15.88,yes
+354,44,"Table S3, row 4 (a), column 'Comparison n'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Comparison n'",44,yes
+355,+7.55,"Table S3, row 4 (a), column 'Own difference (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Own difference (log pts)'",+7.55,yes
+356,+3.28,"Table S3, row 4 (a), column 'Comparison median (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Comparison median (log pts)'",+3.28,yes
+357,+4.27,"Table S3, row 4 (a), column 'Deviation (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Deviation (log pts)'",+4.27,yes
+358,44,"Table S3, row 5 (a), column 'Comparison n'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Comparison n'",44,yes
+359,+1.35,"Table S3, row 5 (a), column 'Own difference (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Own difference (log pts)'",+1.35,yes
+360,+3.28,"Table S3, row 5 (a), column 'Comparison median (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Comparison median (log pts)'",+3.28,yes
+361,−1.93,"Table S3, row 5 (a), column 'Deviation (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Deviation (log pts)'",−1.93,yes
+362,44,"Table S3, row 6 (a), column 'Comparison n'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Comparison n'",44,yes
+363,+0.26,"Table S3, row 6 (a), column 'Own difference (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Own difference (log pts)'",+0.26,yes
+364,+3.28,"Table S3, row 6 (a), column 'Comparison median (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Comparison median (log pts)'",+3.28,yes
+365,−3.02,"Table S3, row 6 (a), column 'Deviation (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Deviation (log pts)'",−3.02,yes
+366,46,"Table S3, row 7 (a), column 'Comparison n'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Comparison n'",46,yes
+367,−18.75,"Table S3, row 7 (a), column 'Own difference (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Own difference (log pts)'",−18.75,yes
+368,−3.63,"Table S3, row 7 (a), column 'Comparison median (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Comparison median (log pts)'",−3.63,yes
+369,−15.12,"Table S3, row 7 (a), column 'Deviation (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Deviation (log pts)'",−15.12,yes
+370,46,"Table S3, row 8 (a), column 'Comparison n'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Comparison n'",46,yes
+371,+1.84,"Table S3, row 8 (a), column 'Own difference (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Own difference (log pts)'",+1.84,yes
+372,−0.09,"Table S3, row 8 (a), column 'Comparison median (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Comparison median (log pts)'",−0.09,yes
+373,+1.92,"Table S3, row 8 (a), column 'Deviation (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Deviation (log pts)'",+1.92,yes
+374,46,"Table S3, row 9 (a), column 'Comparison n'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Comparison n'",46,yes
+375,+3.93,"Table S3, row 9 (a), column 'Own difference (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Own difference (log pts)'",+3.93,yes
+376,+1.41,"Table S3, row 9 (a), column 'Comparison median (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Comparison median (log pts)'",+1.41,yes
+377,+2.52,"Table S3, row 9 (a), column 'Deviation (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Deviation (log pts)'",+2.52,yes
+378,46,"Table S3, row 10 (a), column 'Comparison n'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Comparison n'",46,yes
+379,−4.20,"Table S3, row 10 (a), column 'Own difference (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Own difference (log pts)'",−4.20,yes
+380,−7.20,"Table S3, row 10 (a), column 'Comparison median (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Comparison median (log pts)'",−7.20,yes
+381,+2.99,"Table S3, row 10 (a), column 'Deviation (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Deviation (log pts)'",+2.99,yes
+382,44,"Table S3, row 11 (a), column 'Comparison n'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Comparison n'",44,yes
+383,+2.50,"Table S3, row 11 (a), column 'Own difference (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Own difference (log pts)'",+2.50,yes
+384,−0.09,"Table S3, row 11 (a), column 'Comparison median (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Comparison median (log pts)'",−0.09,yes
+385,+2.58,"Table S3, row 11 (a), column 'Deviation (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Deviation (log pts)'",+2.58,yes
+386,44,"Table S3, row 12 (a), column 'Comparison n'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Comparison n'",44,yes
+387,−2.45,"Table S3, row 12 (a), column 'Own difference (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Own difference (log pts)'",−2.45,yes
+388,−0.09,"Table S3, row 12 (a), column 'Comparison median (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Comparison median (log pts)'",−0.09,yes
+389,−2.37,"Table S3, row 12 (a), column 'Deviation (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Deviation (log pts)'",−2.37,yes
+390,44,"Table S3, row 13 (a), column 'Comparison n'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Comparison n'",44,yes
+391,+7.36,"Table S3, row 13 (a), column 'Own difference (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Own difference (log pts)'",+7.36,yes
+392,−0.09,"Table S3, row 13 (a), column 'Comparison median (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Comparison median (log pts)'",−0.09,yes
+393,+7.45,"Table S3, row 13 (a), column 'Deviation (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Deviation (log pts)'",+7.45,yes
+394,44,"Table S3, row 14 (b), column 'Comparison n'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Comparison n'",44,yes
+395,−23.60,"Table S3, row 14 (b), column 'Own difference (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Own difference (log pts)'",−23.60,yes
+396,+2.15,"Table S3, row 14 (b), column 'Comparison median (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Comparison median (log pts)'",+2.15,yes
+397,−25.75,"Table S3, row 14 (b), column 'Deviation (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Deviation (log pts)'",−25.75,yes
+398,44,"Table S3, row 15 (b), column 'Comparison n'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Comparison n'",44,yes
+399,−16.87,"Table S3, row 15 (b), column 'Own difference (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Own difference (log pts)'",−16.87,yes
+400,+2.15,"Table S3, row 15 (b), column 'Comparison median (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Comparison median (log pts)'",+2.15,yes
+401,−19.03,"Table S3, row 15 (b), column 'Deviation (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Deviation (log pts)'",−19.03,yes
+402,44,"Table S3, row 16 (b), column 'Comparison n'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Comparison n'",44,yes
+403,−15.16,"Table S3, row 16 (b), column 'Own difference (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Own difference (log pts)'",−15.16,yes
+404,+2.15,"Table S3, row 16 (b), column 'Comparison median (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Comparison median (log pts)'",+2.15,yes
+405,−17.31,"Table S3, row 16 (b), column 'Deviation (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Deviation (log pts)'",−17.31,yes
+406,44,"Table S3, row 17 (b), column 'Comparison n'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Comparison n'",44,yes
+407,+3.39,"Table S3, row 17 (b), column 'Own difference (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Own difference (log pts)'",+3.39,yes
+408,+2.15,"Table S3, row 17 (b), column 'Comparison median (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Comparison median (log pts)'",+2.15,yes
+409,+1.24,"Table S3, row 17 (b), column 'Deviation (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Deviation (log pts)'",+1.24,yes
+410,44,"Table S3, row 18 (b), column 'Comparison n'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Comparison n'",44,yes
+411,+2.93,"Table S3, row 18 (b), column 'Own difference (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Own difference (log pts)'",+2.93,yes
+412,+2.15,"Table S3, row 18 (b), column 'Comparison median (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Comparison median (log pts)'",+2.15,yes
+413,+0.78,"Table S3, row 18 (b), column 'Deviation (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Deviation (log pts)'",+0.78,yes
+414,44,"Table S3, row 19 (b), column 'Comparison n'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Comparison n'",44,yes
+415,−2.21,"Table S3, row 19 (b), column 'Own difference (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Own difference (log pts)'",−2.21,yes
+416,+2.15,"Table S3, row 19 (b), column 'Comparison median (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Comparison median (log pts)'",+2.15,yes
+417,−4.36,"Table S3, row 19 (b), column 'Deviation (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Deviation (log pts)'",−4.36,yes
+418,46,"Table S3, row 20 (b), column 'Comparison n'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Comparison n'",46,yes
+419,−15.89,"Table S3, row 20 (b), column 'Own difference (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Own difference (log pts)'",−15.89,yes
+420,−1.30,"Table S3, row 20 (b), column 'Comparison median (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Comparison median (log pts)'",−1.30,yes
+421,−14.59,"Table S3, row 20 (b), column 'Deviation (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Deviation (log pts)'",−14.59,yes
+422,46,"Table S3, row 21 (b), column 'Comparison n'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Comparison n'",46,yes
+423,+2.22,"Table S3, row 21 (b), column 'Own difference (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Own difference (log pts)'",+2.22,yes
+424,−0.01,"Table S3, row 21 (b), column 'Comparison median (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Comparison median (log pts)'",−0.01,yes
+425,+2.23,"Table S3, row 21 (b), column 'Deviation (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Deviation (log pts)'",+2.23,yes
+426,46,"Table S3, row 22 (b), column 'Comparison n'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Comparison n'",46,yes
+427,+1.95,"Table S3, row 22 (b), column 'Own difference (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Own difference (log pts)'",+1.95,yes
+428,+0.35,"Table S3, row 22 (b), column 'Comparison median (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Comparison median (log pts)'",+0.35,yes
+429,+1.60,"Table S3, row 22 (b), column 'Deviation (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Deviation (log pts)'",+1.60,yes
+430,46,"Table S3, row 23 (b), column 'Comparison n'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Comparison n'",46,yes
+431,+3.37,"Table S3, row 23 (b), column 'Own difference (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Own difference (log pts)'",+3.37,yes
+432,−0.82,"Table S3, row 23 (b), column 'Comparison median (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Comparison median (log pts)'",−0.82,yes
+433,+4.19,"Table S3, row 23 (b), column 'Deviation (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Deviation (log pts)'",+4.19,yes
+434,44,"Table S3, row 24 (b), column 'Comparison n'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Comparison n'",44,yes
+435,+3.40,"Table S3, row 24 (b), column 'Own difference (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Own difference (log pts)'",+3.40,yes
+436,−0.04,"Table S3, row 24 (b), column 'Comparison median (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Comparison median (log pts)'",−0.04,yes
+437,+3.44,"Table S3, row 24 (b), column 'Deviation (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Deviation (log pts)'",+3.44,yes
+438,44,"Table S3, row 25 (b), column 'Comparison n'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Comparison n'",44,yes
+439,+0.29,"Table S3, row 25 (b), column 'Own difference (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Own difference (log pts)'",+0.29,yes
+440,−0.04,"Table S3, row 25 (b), column 'Comparison median (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Comparison median (log pts)'",−0.04,yes
+441,+0.32,"Table S3, row 25 (b), column 'Deviation (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Deviation (log pts)'",+0.32,yes
+442,44,"Table S3, row 26 (b), column 'Comparison n'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Comparison n'",44,yes
+443,+6.29,"Table S3, row 26 (b), column 'Own difference (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Own difference (log pts)'",+6.29,yes
+444,−0.04,"Table S3, row 26 (b), column 'Comparison median (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Comparison median (log pts)'",−0.04,yes
+445,+6.32,"Table S3, row 26 (b), column 'Deviation (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Deviation (log pts)'",+6.32,yes
+446,44,"Table S3, row 27 (c), column 'Comparison n'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Comparison n'",44,yes
+447,−15.91,"Table S3, row 27 (c), column 'Own difference (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Own difference (log pts)'",−15.91,yes
+448,+3.28,"Table S3, row 27 (c), column 'Comparison median (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Comparison median (log pts)'",+3.28,yes
+449,−19.19,"Table S3, row 27 (c), column 'Deviation (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Deviation (log pts)'",−19.19,yes
+450,44,"Table S3, row 28 (c), column 'Comparison n'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Comparison n'",44,yes
+451,−15.85,"Table S3, row 28 (c), column 'Own difference (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Own difference (log pts)'",−15.85,yes
+452,+3.28,"Table S3, row 28 (c), column 'Comparison median (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Comparison median (log pts)'",+3.28,yes
+453,−19.13,"Table S3, row 28 (c), column 'Deviation (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Deviation (log pts)'",−19.13,yes
+454,44,"Table S3, row 29 (c), column 'Comparison n'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Comparison n'",44,yes
+455,−12.60,"Table S3, row 29 (c), column 'Own difference (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Own difference (log pts)'",−12.60,yes
+456,+3.28,"Table S3, row 29 (c), column 'Comparison median (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Comparison median (log pts)'",+3.28,yes
+457,−15.88,"Table S3, row 29 (c), column 'Deviation (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Deviation (log pts)'",−15.88,yes
+458,44,"Table S3, row 30 (c), column 'Comparison n'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Comparison n'",44,yes
+459,+7.55,"Table S3, row 30 (c), column 'Own difference (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Own difference (log pts)'",+7.55,yes
+460,+3.28,"Table S3, row 30 (c), column 'Comparison median (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Comparison median (log pts)'",+3.28,yes
+461,+4.27,"Table S3, row 30 (c), column 'Deviation (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Deviation (log pts)'",+4.27,yes
+462,44,"Table S3, row 31 (c), column 'Comparison n'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Comparison n'",44,yes
+463,+1.35,"Table S3, row 31 (c), column 'Own difference (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Own difference (log pts)'",+1.35,yes
+464,+3.28,"Table S3, row 31 (c), column 'Comparison median (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Comparison median (log pts)'",+3.28,yes
+465,−1.93,"Table S3, row 31 (c), column 'Deviation (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Deviation (log pts)'",−1.93,yes
+466,44,"Table S3, row 32 (c), column 'Comparison n'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Comparison n'",44,yes
+467,+0.26,"Table S3, row 32 (c), column 'Own difference (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Own difference (log pts)'",+0.26,yes
+468,+3.28,"Table S3, row 32 (c), column 'Comparison median (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Comparison median (log pts)'",+3.28,yes
+469,−3.02,"Table S3, row 32 (c), column 'Deviation (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Deviation (log pts)'",−3.02,yes
+470,46,"Table S3, row 33 (c), column 'Comparison n'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Comparison n'",46,yes
+471,−15.89,"Table S3, row 33 (c), column 'Own difference (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Own difference (log pts)'",−15.89,yes
+472,−1.30,"Table S3, row 33 (c), column 'Comparison median (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Comparison median (log pts)'",−1.30,yes
+473,−14.59,"Table S3, row 33 (c), column 'Deviation (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Deviation (log pts)'",−14.59,yes
+474,46,"Table S3, row 34 (c), column 'Comparison n'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Comparison n'",46,yes
+475,+2.22,"Table S3, row 34 (c), column 'Own difference (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Own difference (log pts)'",+2.22,yes
+476,−0.01,"Table S3, row 34 (c), column 'Comparison median (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Comparison median (log pts)'",−0.01,yes
+477,+2.23,"Table S3, row 34 (c), column 'Deviation (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Deviation (log pts)'",+2.23,yes
+478,46,"Table S3, row 35 (c), column 'Comparison n'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Comparison n'",46,yes
+479,+3.93,"Table S3, row 35 (c), column 'Own difference (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Own difference (log pts)'",+3.93,yes
+480,+1.41,"Table S3, row 35 (c), column 'Comparison median (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Comparison median (log pts)'",+1.41,yes
+481,+2.52,"Table S3, row 35 (c), column 'Deviation (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Deviation (log pts)'",+2.52,yes
+482,46,"Table S3, row 36 (c), column 'Comparison n'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Comparison n'",46,yes
+483,+3.37,"Table S3, row 36 (c), column 'Own difference (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Own difference (log pts)'",+3.37,yes
+484,−0.82,"Table S3, row 36 (c), column 'Comparison median (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Comparison median (log pts)'",−0.82,yes
+485,+4.19,"Table S3, row 36 (c), column 'Deviation (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Deviation (log pts)'",+4.19,yes
+486,44,"Table S3, row 37 (c), column 'Comparison n'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Comparison n'",44,yes
+487,+3.40,"Table S3, row 37 (c), column 'Own difference (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Own difference (log pts)'",+3.40,yes
+488,−0.04,"Table S3, row 37 (c), column 'Comparison median (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Comparison median (log pts)'",−0.04,yes
+489,+3.44,"Table S3, row 37 (c), column 'Deviation (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Deviation (log pts)'",+3.44,yes
+490,44,"Table S3, row 38 (c), column 'Comparison n'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Comparison n'",44,yes
+491,+0.29,"Table S3, row 38 (c), column 'Own difference (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Own difference (log pts)'",+0.29,yes
+492,−0.04,"Table S3, row 38 (c), column 'Comparison median (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Comparison median (log pts)'",−0.04,yes
+493,+0.32,"Table S3, row 38 (c), column 'Deviation (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Deviation (log pts)'",+0.32,yes
+494,44,"Table S3, row 39 (c), column 'Comparison n'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Comparison n'",44,yes
+495,+6.29,"Table S3, row 39 (c), column 'Own difference (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Own difference (log pts)'",+6.29,yes
+496,−0.04,"Table S3, row 39 (c), column 'Comparison median (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Comparison median (log pts)'",−0.04,yes
+497,+6.32,"Table S3, row 39 (c), column 'Deviation (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Deviation (log pts)'",+6.32,yes
+498,44,"Table S3, row 40 (d), column 'Comparison n'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Comparison n'",44,yes
+499,−17.47,"Table S3, row 40 (d), column 'Own difference (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Own difference (log pts)'",−17.47,yes
+500,+3.45,"Table S3, row 40 (d), column 'Comparison median (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Comparison median (log pts)'",+3.45,yes
+501,−20.93,"Table S3, row 40 (d), column 'Deviation (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Deviation (log pts)'",−20.93,yes
+502,44,"Table S3, row 41 (d), column 'Comparison n'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Comparison n'",44,yes
+503,−14.52,"Table S3, row 41 (d), column 'Own difference (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Own difference (log pts)'",−14.52,yes
+504,+3.45,"Table S3, row 41 (d), column 'Comparison median (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Comparison median (log pts)'",+3.45,yes
+505,−17.97,"Table S3, row 41 (d), column 'Deviation (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Deviation (log pts)'",−17.97,yes
+506,44,"Table S3, row 42 (d), column 'Comparison n'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Comparison n'",44,yes
+507,−16.20,"Table S3, row 42 (d), column 'Own difference (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Own difference (log pts)'",−16.20,yes
+508,+3.45,"Table S3, row 42 (d), column 'Comparison median (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Comparison median (log pts)'",+3.45,yes
+509,−19.66,"Table S3, row 42 (d), column 'Deviation (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Deviation (log pts)'",−19.66,yes
+510,44,"Table S3, row 43 (d), column 'Comparison n'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Comparison n'",44,yes
+511,+5.21,"Table S3, row 43 (d), column 'Own difference (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Own difference (log pts)'",+5.21,yes
+512,+3.45,"Table S3, row 43 (d), column 'Comparison median (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Comparison median (log pts)'",+3.45,yes
+513,+1.75,"Table S3, row 43 (d), column 'Deviation (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Deviation (log pts)'",+1.75,yes
+514,44,"Table S3, row 44 (d), column 'Comparison n'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Comparison n'",44,yes
+515,−2.00,"Table S3, row 44 (d), column 'Own difference (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Own difference (log pts)'",−2.00,yes
+516,+3.45,"Table S3, row 44 (d), column 'Comparison median (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Comparison median (log pts)'",+3.45,yes
+517,−5.45,"Table S3, row 44 (d), column 'Deviation (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Deviation (log pts)'",−5.45,yes
+518,44,"Table S3, row 45 (d), column 'Comparison n'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Comparison n'",44,yes
+519,+5.08,"Table S3, row 45 (d), column 'Own difference (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Own difference (log pts)'",+5.08,yes
+520,+3.45,"Table S3, row 45 (d), column 'Comparison median (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Comparison median (log pts)'",+3.45,yes
+521,+1.62,"Table S3, row 45 (d), column 'Deviation (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Deviation (log pts)'",+1.62,yes
+522,46,"Table S3, row 46 (d), column 'Comparison n'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Comparison n'",46,yes
+523,−15.89,"Table S3, row 46 (d), column 'Own difference (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Own difference (log pts)'",−15.89,yes
+524,−1.30,"Table S3, row 46 (d), column 'Comparison median (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Comparison median (log pts)'",−1.30,yes
+525,−14.59,"Table S3, row 46 (d), column 'Deviation (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Deviation (log pts)'",−14.59,yes
+526,46,"Table S3, row 47 (d), column 'Comparison n'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Comparison n'",46,yes
+527,+2.22,"Table S3, row 47 (d), column 'Own difference (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Own difference (log pts)'",+2.22,yes
+528,−0.01,"Table S3, row 47 (d), column 'Comparison median (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Comparison median (log pts)'",−0.01,yes
+529,+2.23,"Table S3, row 47 (d), column 'Deviation (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Deviation (log pts)'",+2.23,yes
+530,46,"Table S3, row 48 (d), column 'Comparison n'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Comparison n'",46,yes
+531,+1.95,"Table S3, row 48 (d), column 'Own difference (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Own difference (log pts)'",+1.95,yes
+532,+0.35,"Table S3, row 48 (d), column 'Comparison median (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Comparison median (log pts)'",+0.35,yes
+533,+1.60,"Table S3, row 48 (d), column 'Deviation (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Deviation (log pts)'",+1.60,yes
+534,46,"Table S3, row 49 (d), column 'Comparison n'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Comparison n'",46,yes
+535,+3.37,"Table S3, row 49 (d), column 'Own difference (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Own difference (log pts)'",+3.37,yes
+536,−0.82,"Table S3, row 49 (d), column 'Comparison median (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Comparison median (log pts)'",−0.82,yes
+537,+4.19,"Table S3, row 49 (d), column 'Deviation (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Deviation (log pts)'",+4.19,yes
+538,44,"Table S3, row 50 (d), column 'Comparison n'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Comparison n'",44,yes
+539,+3.40,"Table S3, row 50 (d), column 'Own difference (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Own difference (log pts)'",+3.40,yes
+540,−0.04,"Table S3, row 50 (d), column 'Comparison median (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Comparison median (log pts)'",−0.04,yes
+541,+3.44,"Table S3, row 50 (d), column 'Deviation (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Deviation (log pts)'",+3.44,yes
+542,44,"Table S3, row 51 (d), column 'Comparison n'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Comparison n'",44,yes
+543,+0.29,"Table S3, row 51 (d), column 'Own difference (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Own difference (log pts)'",+0.29,yes
+544,−0.04,"Table S3, row 51 (d), column 'Comparison median (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Comparison median (log pts)'",−0.04,yes
+545,+0.32,"Table S3, row 51 (d), column 'Deviation (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Deviation (log pts)'",+0.32,yes
+546,44,"Table S3, row 52 (d), column 'Comparison n'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Comparison n'",44,yes
+547,+6.29,"Table S3, row 52 (d), column 'Own difference (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Own difference (log pts)'",+6.29,yes
+548,−0.04,"Table S3, row 52 (d), column 'Comparison median (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Comparison median (log pts)'",−0.04,yes
+549,+6.32,"Table S3, row 52 (d), column 'Deviation (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Deviation (log pts)'",+6.32,yes
+550,41,"Table S3, row 53 (e), column 'Comparison n'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Comparison n'",41,yes
+551,−15.91,"Table S3, row 53 (e), column 'Own difference (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Own difference (log pts)'",−15.91,yes
+552,+3.37,"Table S3, row 53 (e), column 'Comparison median (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Comparison median (log pts)'",+3.37,yes
+553,−19.27,"Table S3, row 53 (e), column 'Deviation (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Deviation (log pts)'",−19.27,yes
+554,41,"Table S3, row 54 (e), column 'Comparison n'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Comparison n'",41,yes
+555,−15.85,"Table S3, row 54 (e), column 'Own difference (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Own difference (log pts)'",−15.85,yes
+556,+3.37,"Table S3, row 54 (e), column 'Comparison median (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Comparison median (log pts)'",+3.37,yes
+557,−19.22,"Table S3, row 54 (e), column 'Deviation (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Deviation (log pts)'",−19.22,yes
+558,41,"Table S3, row 55 (e), column 'Comparison n'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Comparison n'",41,yes
+559,−12.60,"Table S3, row 55 (e), column 'Own difference (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Own difference (log pts)'",−12.60,yes
+560,+3.37,"Table S3, row 55 (e), column 'Comparison median (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Comparison median (log pts)'",+3.37,yes
+561,−15.97,"Table S3, row 55 (e), column 'Deviation (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Deviation (log pts)'",−15.97,yes
+562,41,"Table S3, row 56 (e), column 'Comparison n'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Comparison n'",41,yes
+563,+7.55,"Table S3, row 56 (e), column 'Own difference (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Own difference (log pts)'",+7.55,yes
+564,+3.37,"Table S3, row 56 (e), column 'Comparison median (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Comparison median (log pts)'",+3.37,yes
+565,+4.18,"Table S3, row 56 (e), column 'Deviation (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Deviation (log pts)'",+4.18,yes
+566,41,"Table S3, row 57 (e), column 'Comparison n'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Comparison n'",41,yes
+567,+1.35,"Table S3, row 57 (e), column 'Own difference (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Own difference (log pts)'",+1.35,yes
+568,+3.37,"Table S3, row 57 (e), column 'Comparison median (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Comparison median (log pts)'",+3.37,yes
+569,−2.02,"Table S3, row 57 (e), column 'Deviation (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Deviation (log pts)'",−2.02,yes
+570,41,"Table S3, row 58 (e), column 'Comparison n'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Comparison n'",41,yes
+571,+0.26,"Table S3, row 58 (e), column 'Own difference (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Own difference (log pts)'",+0.26,yes
+572,+3.37,"Table S3, row 58 (e), column 'Comparison median (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Comparison median (log pts)'",+3.37,yes
+573,−3.11,"Table S3, row 58 (e), column 'Deviation (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Deviation (log pts)'",−3.11,yes
+574,44,"Table S3, row 59 (f), column 'Comparison n'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Comparison n'",44,yes
+575,−16.16,"Table S3, row 59 (f), column 'Own difference (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Own difference (log pts)'",−16.16,yes
+576,+3.77,"Table S3, row 59 (f), column 'Comparison median (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Comparison median (log pts)'",+3.77,yes
+577,−19.93,"Table S3, row 59 (f), column 'Deviation (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Deviation (log pts)'",−19.93,yes
+578,44,"Table S3, row 60 (f), column 'Comparison n'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Comparison n'",44,yes
+579,−15.73,"Table S3, row 60 (f), column 'Own difference (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Own difference (log pts)'",−15.73,yes
+580,+3.77,"Table S3, row 60 (f), column 'Comparison median (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Comparison median (log pts)'",+3.77,yes
+581,−19.50,"Table S3, row 60 (f), column 'Deviation (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Deviation (log pts)'",−19.50,yes
+582,44,"Table S3, row 61 (f), column 'Comparison n'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Comparison n'",44,yes
+583,−12.10,"Table S3, row 61 (f), column 'Own difference (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Own difference (log pts)'",−12.10,yes
+584,+3.77,"Table S3, row 61 (f), column 'Comparison median (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Comparison median (log pts)'",+3.77,yes
+585,−15.87,"Table S3, row 61 (f), column 'Deviation (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Deviation (log pts)'",−15.87,yes
+586,44,"Table S3, row 62 (f), column 'Comparison n'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Comparison n'",44,yes
+587,+7.71,"Table S3, row 62 (f), column 'Own difference (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Own difference (log pts)'",+7.71,yes
+588,+3.77,"Table S3, row 62 (f), column 'Comparison median (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Comparison median (log pts)'",+3.77,yes
+589,+3.94,"Table S3, row 62 (f), column 'Deviation (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Deviation (log pts)'",+3.94,yes
+590,44,"Table S3, row 63 (f), column 'Comparison n'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Comparison n'",44,yes
+591,+1.21,"Table S3, row 63 (f), column 'Own difference (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Own difference (log pts)'",+1.21,yes
+592,+3.77,"Table S3, row 63 (f), column 'Comparison median (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Comparison median (log pts)'",+3.77,yes
+593,−2.57,"Table S3, row 63 (f), column 'Deviation (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Deviation (log pts)'",−2.57,yes
+594,44,"Table S3, row 64 (f), column 'Comparison n'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Comparison n'",44,yes
+595,+0.59,"Table S3, row 64 (f), column 'Own difference (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Own difference (log pts)'",+0.59,yes
+596,+3.77,"Table S3, row 64 (f), column 'Comparison median (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Comparison median (log pts)'",+3.77,yes
+597,−3.18,"Table S3, row 64 (f), column 'Deviation (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Deviation (log pts)'",−3.18,yes
+598,46,"Table S3, row 65 (f), column 'Comparison n'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Comparison n'",46,yes
+599,−18.76,"Table S3, row 65 (f), column 'Own difference (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Own difference (log pts)'",−18.76,yes
+600,−3.48,"Table S3, row 65 (f), column 'Comparison median (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Comparison median (log pts)'",−3.48,yes
+601,−15.29,"Table S3, row 65 (f), column 'Deviation (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Deviation (log pts)'",−15.29,yes
+602,46,"Table S3, row 66 (f), column 'Comparison n'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Comparison n'",46,yes
+603,+1.83,"Table S3, row 66 (f), column 'Own difference (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Own difference (log pts)'",+1.83,yes
+604,+0.06,"Table S3, row 66 (f), column 'Comparison median (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Comparison median (log pts)'",+0.06,yes
+605,+1.77,"Table S3, row 66 (f), column 'Deviation (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Deviation (log pts)'",+1.77,yes
+606,46,"Table S3, row 67 (f), column 'Comparison n'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Comparison n'",46,yes
+607,+3.79,"Table S3, row 67 (f), column 'Own difference (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Own difference (log pts)'",+3.79,yes
+608,+1.31,"Table S3, row 67 (f), column 'Comparison median (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Comparison median (log pts)'",+1.31,yes
+609,+2.47,"Table S3, row 67 (f), column 'Deviation (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Deviation (log pts)'",+2.47,yes
+610,46,"Table S3, row 68 (f), column 'Comparison n'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Comparison n'",46,yes
+611,−4.52,"Table S3, row 68 (f), column 'Own difference (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Own difference (log pts)'",−4.52,yes
+612,−7.52,"Table S3, row 68 (f), column 'Comparison median (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Comparison median (log pts)'",−7.52,yes
+613,+3.00,"Table S3, row 68 (f), column 'Deviation (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Deviation (log pts)'",+3.00,yes
+614,44,"Table S3, row 69 (f), column 'Comparison n'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Comparison n'",44,yes
+615,+2.49,"Table S3, row 69 (f), column 'Own difference (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Own difference (log pts)'",+2.49,yes
+616,+0.06,"Table S3, row 69 (f), column 'Comparison median (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Comparison median (log pts)'",+0.06,yes
+617,+2.43,"Table S3, row 69 (f), column 'Deviation (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Deviation (log pts)'",+2.43,yes
+618,44,"Table S3, row 70 (f), column 'Comparison n'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Comparison n'",44,yes
+619,−2.34,"Table S3, row 70 (f), column 'Own difference (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Own difference (log pts)'",−2.34,yes
+620,+0.06,"Table S3, row 70 (f), column 'Comparison median (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Comparison median (log pts)'",+0.06,yes
+621,−2.40,"Table S3, row 70 (f), column 'Deviation (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Deviation (log pts)'",−2.40,yes
+622,44,"Table S3, row 71 (f), column 'Comparison n'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Comparison n'",44,yes
+623,+7.43,"Table S3, row 71 (f), column 'Own difference (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Own difference (log pts)'",+7.43,yes
+624,+0.06,"Table S3, row 71 (f), column 'Comparison median (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Comparison median (log pts)'",+0.06,yes
+625,+7.38,"Table S3, row 71 (f), column 'Deviation (log pts)'",table,data/decomposition.csv; data/population_age.csv (row f),"code/reproduce_tables.py table_s3(), column 'Deviation (log pts)'",+7.38,yes
+626,−12.32,"Table S3 (evacuees), row 1 (Evacuees removed from the denominator), column 'r unadjusted (log pts)'",table,data/decomposition.csv; data/evacuees_outside_prefecture.csv,"code/reproduce_tables.py table_s3(), column 'r unadjusted'",−12.32,yes
+627,−9.52,"Table S3 (evacuees), row 1 (Evacuees removed from the denominator), column 'r with evacuees removed, own age composition (log pts)'",table,data/decomposition.csv; data/evacuees_outside_prefecture.csv,"code/reproduce_tables.py table_s3(), column 'r removed, own age composition'",−9.52,yes
+628,−8.13,"Table S3 (evacuees), row 1 (Evacuees removed from the denominator), column 'r with evacuees removed, all aged 15 to 69 (log pts)'",table,data/decomposition.csv; data/evacuees_outside_prefecture.csv,"code/reproduce_tables.py table_s3(), column 'r removed, all aged 15 to 69'",−8.13,yes
+629,−16.07,"Table S3 (evacuees), row 2 (Evacuees removed from the denominator), column 'r unadjusted (log pts)'",table,data/decomposition.csv; data/evacuees_outside_prefecture.csv,"code/reproduce_tables.py table_s3(), column 'r unadjusted'",−16.07,yes
+630,−15.70,"Table S3 (evacuees), row 2 (Evacuees removed from the denominator), column 'r with evacuees removed, own age composition (log pts)'",table,data/decomposition.csv; data/evacuees_outside_prefecture.csv,"code/reproduce_tables.py table_s3(), column 'r removed, own age composition'",−15.70,yes
+631,−15.55,"Table S3 (evacuees), row 2 (Evacuees removed from the denominator), column 'r with evacuees removed, all aged 15 to 69 (log pts)'",table,data/decomposition.csv; data/evacuees_outside_prefecture.csv,"code/reproduce_tables.py table_s3(), column 'r removed, all aged 15 to 69'",−15.55,yes
+632,−19.19,"Table S5, row 1 (Fukushima), column 'Main rule: deviation (log pts)'",table,data/decomposition.csv,"code/reproduce_tables.py table_s5(), column 'Main rule: deviation (log pts)'",−19.19,yes
+633,1/45,"Table S5, row 1 (Fukushima), column 'Main rule: rank'",table,data/decomposition.csv,"code/reproduce_tables.py table_s5(), column 'Main rule: rank'",1/45,yes
+634,−19.19,"Table S5, row 1 (Fukushima), column 'Alternative: deviation (log pts)'",table,data/decomposition.csv,"code/reproduce_tables.py table_s5(), column 'Alternative: deviation (log pts)'",−19.19,yes
+635,1/45,"Table S5, row 1 (Fukushima), column 'Alternative: rank'",table,data/decomposition.csv,"code/reproduce_tables.py table_s5(), column 'Alternative: rank'",1/45,yes
+636,−19.13,"Table S5, row 2 (Miyagi), column 'Main rule: deviation (log pts)'",table,data/decomposition.csv,"code/reproduce_tables.py table_s5(), column 'Main rule: deviation (log pts)'",−19.13,yes
+637,1/45,"Table S5, row 2 (Miyagi), column 'Main rule: rank'",table,data/decomposition.csv,"code/reproduce_tables.py table_s5(), column 'Main rule: rank'",1/45,yes
+638,−19.13,"Table S5, row 2 (Miyagi), column 'Alternative: deviation (log pts)'",table,data/decomposition.csv,"code/reproduce_tables.py table_s5(), column 'Alternative: deviation (log pts)'",−19.13,yes
+639,1/45,"Table S5, row 2 (Miyagi), column 'Alternative: rank'",table,data/decomposition.csv,"code/reproduce_tables.py table_s5(), column 'Alternative: rank'",1/45,yes
+640,−15.88,"Table S5, row 3 (Iwate), column 'Main rule: deviation (log pts)'",table,data/decomposition.csv,"code/reproduce_tables.py table_s5(), column 'Main rule: deviation (log pts)'",−15.88,yes
+641,1/45,"Table S5, row 3 (Iwate), column 'Main rule: rank'",table,data/decomposition.csv,"code/reproduce_tables.py table_s5(), column 'Main rule: rank'",1/45,yes
+642,−15.88,"Table S5, row 3 (Iwate), column 'Alternative: deviation (log pts)'",table,data/decomposition.csv,"code/reproduce_tables.py table_s5(), column 'Alternative: deviation (log pts)'",−15.88,yes
+643,1/45,"Table S5, row 3 (Iwate), column 'Alternative: rank'",table,data/decomposition.csv,"code/reproduce_tables.py table_s5(), column 'Alternative: rank'",1/45,yes
+644,−15.12,"Table S5, row 4 (Kumamoto), column 'Main rule: deviation (log pts)'",table,data/decomposition.csv,"code/reproduce_tables.py table_s5(), column 'Main rule: deviation (log pts)'",−15.12,yes
+645,1/47,"Table S5, row 4 (Kumamoto), column 'Main rule: rank'",table,data/decomposition.csv,"code/reproduce_tables.py table_s5(), column 'Main rule: rank'",1/47,yes
+646,−3.17,"Table S5, row 4 (Kumamoto), column 'Alternative: deviation (log pts)'",table,data/decomposition.csv,"code/reproduce_tables.py table_s5(), column 'Alternative: deviation (log pts)'",−3.17,yes
+647,10/47,"Table S5, row 4 (Kumamoto), column 'Alternative: rank'",table,data/decomposition.csv,"code/reproduce_tables.py table_s5(), column 'Alternative: rank'",10/47,yes
+648,+4.27,"Table S5, row 5 (Ibaraki), column 'Main rule: deviation (log pts)'",table,data/decomposition.csv,"code/reproduce_tables.py table_s5(), column 'Main rule: deviation (log pts)'",+4.27,yes
+649,36/44,"Table S5, row 5 (Ibaraki), column 'Main rule: rank'",table,data/decomposition.csv,"code/reproduce_tables.py table_s5(), column 'Main rule: rank'",36/44,yes
+650,+4.27,"Table S5, row 5 (Ibaraki), column 'Alternative: deviation (log pts)'",table,data/decomposition.csv,"code/reproduce_tables.py table_s5(), column 'Alternative: deviation (log pts)'",+4.27,yes
+651,36/44,"Table S5, row 5 (Ibaraki), column 'Alternative: rank'",table,data/decomposition.csv,"code/reproduce_tables.py table_s5(), column 'Alternative: rank'",36/44,yes
+652,−1.93,"Table S5, row 6 (Chiba), column 'Main rule: deviation (log pts)'",table,data/decomposition.csv,"code/reproduce_tables.py table_s5(), column 'Main rule: deviation (log pts)'",−1.93,yes
+653,14/44,"Table S5, row 6 (Chiba), column 'Main rule: rank'",table,data/decomposition.csv,"code/reproduce_tables.py table_s5(), column 'Main rule: rank'",14/44,yes
+654,−1.93,"Table S5, row 6 (Chiba), column 'Alternative: deviation (log pts)'",table,data/decomposition.csv,"code/reproduce_tables.py table_s5(), column 'Alternative: deviation (log pts)'",−1.93,yes
+655,14/44,"Table S5, row 6 (Chiba), column 'Alternative: rank'",table,data/decomposition.csv,"code/reproduce_tables.py table_s5(), column 'Alternative: rank'",14/44,yes
+656,−3.02,"Table S5, row 7 (Aomori), column 'Main rule: deviation (log pts)'",table,data/decomposition.csv,"code/reproduce_tables.py table_s5(), column 'Main rule: deviation (log pts)'",−3.02,yes
+657,13/44,"Table S5, row 7 (Aomori), column 'Main rule: rank'",table,data/decomposition.csv,"code/reproduce_tables.py table_s5(), column 'Main rule: rank'",13/44,yes
+658,−3.02,"Table S5, row 7 (Aomori), column 'Alternative: deviation (log pts)'",table,data/decomposition.csv,"code/reproduce_tables.py table_s5(), column 'Alternative: deviation (log pts)'",−3.02,yes
+659,13/44,"Table S5, row 7 (Aomori), column 'Alternative: rank'",table,data/decomposition.csv,"code/reproduce_tables.py table_s5(), column 'Alternative: rank'",13/44,yes
+660,+2.58,"Table S5, row 8 (Okayama), column 'Main rule: deviation (log pts)'",table,data/decomposition.csv,"code/reproduce_tables.py table_s5(), column 'Main rule: deviation (log pts)'",+2.58,yes
+661,37/45,"Table S5, row 8 (Okayama), column 'Main rule: rank'",table,data/decomposition.csv,"code/reproduce_tables.py table_s5(), column 'Main rule: rank'",37/45,yes
+662,+1.10,"Table S5, row 8 (Okayama), column 'Alternative: deviation (log pts)'",table,data/decomposition.csv,"code/reproduce_tables.py table_s5(), column 'Alternative: deviation (log pts)'",+1.10,yes
+663,34/45,"Table S5, row 8 (Okayama), column 'Alternative: rank'",table,data/decomposition.csv,"code/reproduce_tables.py table_s5(), column 'Alternative: rank'",34/45,yes
+664,−2.37,"Table S5, row 9 (Hiroshima), column 'Main rule: deviation (log pts)'",table,data/decomposition.csv,"code/reproduce_tables.py table_s5(), column 'Main rule: deviation (log pts)'",−2.37,yes
+665,9/45,"Table S5, row 9 (Hiroshima), column 'Main rule: rank'",table,data/decomposition.csv,"code/reproduce_tables.py table_s5(), column 'Main rule: rank'",9/45,yes
+666,+0.39,"Table S5, row 9 (Hiroshima), column 'Alternative: deviation (log pts)'",table,data/decomposition.csv,"code/reproduce_tables.py table_s5(), column 'Alternative: deviation (log pts)'",+0.39,yes
+667,29/45,"Table S5, row 9 (Hiroshima), column 'Alternative: rank'",table,data/decomposition.csv,"code/reproduce_tables.py table_s5(), column 'Alternative: rank'",29/45,yes
+668,+7.45,"Table S5, row 10 (Ehime), column 'Main rule: deviation (log pts)'",table,data/decomposition.csv,"code/reproduce_tables.py table_s5(), column 'Main rule: deviation (log pts)'",+7.45,yes
+669,44/45,"Table S5, row 10 (Ehime), column 'Main rule: rank'",table,data/decomposition.csv,"code/reproduce_tables.py table_s5(), column 'Main rule: rank'",44/45,yes
+670,+4.80,"Table S5, row 10 (Ehime), column 'Alternative: deviation (log pts)'",table,data/decomposition.csv,"code/reproduce_tables.py table_s5(), column 'Alternative: deviation (log pts)'",+4.80,yes
+671,44/45,"Table S5, row 10 (Ehime), column 'Alternative: rank'",table,data/decomposition.csv,"code/reproduce_tables.py table_s5(), column 'Alternative: rank'",44/45,yes
+672,+1.92,"Table S5, row 11 (Hokkaido), column 'Main rule: deviation (log pts)'",table,data/decomposition.csv,"code/reproduce_tables.py table_s5(), column 'Main rule: deviation (log pts)'",+1.92,yes
+673,34/47,"Table S5, row 11 (Hokkaido), column 'Main rule: rank'",table,data/decomposition.csv,"code/reproduce_tables.py table_s5(), column 'Main rule: rank'",34/47,yes
+674,−0.11,"Table S5, row 11 (Hokkaido), column 'Alternative: deviation (log pts)'",table,data/decomposition.csv,"code/reproduce_tables.py table_s5(), column 'Alternative: deviation (log pts)'",−0.11,yes
+675,21/47,"Table S5, row 11 (Hokkaido), column 'Alternative: rank'",table,data/decomposition.csv,"code/reproduce_tables.py table_s5(), column 'Alternative: rank'",21/47,yes
+676,+2.52,"Table S5, row 12 (Ishikawa), column 'Main rule: deviation (log pts)'",table,data/decomposition.csv,"code/reproduce_tables.py table_s5(), column 'Main rule: deviation (log pts)'",+2.52,yes
+677,41/47,"Table S5, row 12 (Ishikawa), column 'Main rule: rank'",table,data/decomposition.csv,"code/reproduce_tables.py table_s5(), column 'Main rule: rank'",41/47,yes
+678,+2.52,"Table S5, row 12 (Ishikawa), column 'Alternative: deviation (log pts)'",table,data/decomposition.csv,"code/reproduce_tables.py table_s5(), column 'Alternative: deviation (log pts)'",+2.52,yes
+679,41/47,"Table S5, row 12 (Ishikawa), column 'Alternative: rank'",table,data/decomposition.csv,"code/reproduce_tables.py table_s5(), column 'Alternative: rank'",41/47,yes
+680,+2.99,"Table S5, row 13 (Niigata), column 'Main rule: deviation (log pts)'",table,data/decomposition.csv,"code/reproduce_tables.py table_s5(), column 'Main rule: deviation (log pts)'",+2.99,yes
+681,33/47,"Table S5, row 13 (Niigata), column 'Main rule: rank'",table,data/decomposition.csv,"code/reproduce_tables.py table_s5(), column 'Main rule: rank'",33/47,yes
+682,+5.32,"Table S5, row 13 (Niigata), column 'Alternative: deviation (log pts)'",table,data/decomposition.csv,"code/reproduce_tables.py table_s5(), column 'Alternative: deviation (log pts)'",+5.32,yes
+683,36/47,"Table S5, row 13 (Niigata), column 'Alternative: rank'",table,data/decomposition.csv,"code/reproduce_tables.py table_s5(), column 'Alternative: rank'",36/47,yes
+684,5,"Table S6, row 1 (Fukushima), column 'Pre-event points'",table,data/decomposition.csv,"code/reproduce_tables.py table_s6(), column 'Pre-event points'",5,yes
+685,+1.287,"Table S6, row 1 (Fukushima), column 'Slope (log pts / year)'",table,data/decomposition.csv,"code/reproduce_tables.py table_s6(), column 'Slope (log pts / year)'",+1.287,yes
+686,0.52,"Table S6, row 1 (Fukushima), column 'R²'",table,data/decomposition.csv,"code/reproduce_tables.py table_s6(), column 'R2'",0.52,yes
+687,+2.57,"Table S6, row 1 (Fukushima), column 'Two-year contribution (log pts)'",table,data/decomposition.csv,"code/reproduce_tables.py table_s6(), column 'Two-year contribution (log pts)'",+2.57,yes
+688,−19.19,"Table S6, row 1 (Fukushima), column 'Deviation in first post-event FY (log pts)'",table,data/decomposition.csv,"code/reproduce_tables.py table_s6(), column 'Deviation in first post-event FY (log pts)'",−19.19,yes
+689,−21.76,"Table S6, row 1 (Fukushima), column 'Deviation less contribution'",table,data/decomposition.csv,"code/reproduce_tables.py table_s6(), column 'Deviation less contribution'",−21.76,yes
+690,5,"Table S6, row 2 (Miyagi), column 'Pre-event points'",table,data/decomposition.csv,"code/reproduce_tables.py table_s6(), column 'Pre-event points'",5,yes
+691,−2.174,"Table S6, row 2 (Miyagi), column 'Slope (log pts / year)'",table,data/decomposition.csv,"code/reproduce_tables.py table_s6(), column 'Slope (log pts / year)'",−2.174,yes
+692,0.79,"Table S6, row 2 (Miyagi), column 'R²'",table,data/decomposition.csv,"code/reproduce_tables.py table_s6(), column 'R2'",0.79,yes
+693,−4.35,"Table S6, row 2 (Miyagi), column 'Two-year contribution (log pts)'",table,data/decomposition.csv,"code/reproduce_tables.py table_s6(), column 'Two-year contribution (log pts)'",−4.35,yes
+694,−19.13,"Table S6, row 2 (Miyagi), column 'Deviation in first post-event FY (log pts)'",table,data/decomposition.csv,"code/reproduce_tables.py table_s6(), column 'Deviation in first post-event FY (log pts)'",−19.13,yes
+695,−14.78,"Table S6, row 2 (Miyagi), column 'Deviation less contribution'",table,data/decomposition.csv,"code/reproduce_tables.py table_s6(), column 'Deviation less contribution'",−14.78,yes
+696,5,"Table S6, row 3 (Iwate), column 'Pre-event points'",table,data/decomposition.csv,"code/reproduce_tables.py table_s6(), column 'Pre-event points'",5,yes
+697,+2.115,"Table S6, row 3 (Iwate), column 'Slope (log pts / year)'",table,data/decomposition.csv,"code/reproduce_tables.py table_s6(), column 'Slope (log pts / year)'",+2.115,yes
+698,0.56,"Table S6, row 3 (Iwate), column 'R²'",table,data/decomposition.csv,"code/reproduce_tables.py table_s6(), column 'R2'",0.56,yes
+699,+4.23,"Table S6, row 3 (Iwate), column 'Two-year contribution (log pts)'",table,data/decomposition.csv,"code/reproduce_tables.py table_s6(), column 'Two-year contribution (log pts)'",+4.23,yes
+700,−15.88,"Table S6, row 3 (Iwate), column 'Deviation in first post-event FY (log pts)'",table,data/decomposition.csv,"code/reproduce_tables.py table_s6(), column 'Deviation in first post-event FY (log pts)'",−15.88,yes
+701,−20.11,"Table S6, row 3 (Iwate), column 'Deviation less contribution'",table,data/decomposition.csv,"code/reproduce_tables.py table_s6(), column 'Deviation less contribution'",−20.11,yes
+702,5,"Table S6, row 4 (Kumamoto), column 'Pre-event points'",table,data/decomposition.csv,"code/reproduce_tables.py table_s6(), column 'Pre-event points'",5,yes
+703,−0.437,"Table S6, row 4 (Kumamoto), column 'Slope (log pts / year)'",table,data/decomposition.csv,"code/reproduce_tables.py table_s6(), column 'Slope (log pts / year)'",−0.437,yes
+704,0.79,"Table S6, row 4 (Kumamoto), column 'R²'",table,data/decomposition.csv,"code/reproduce_tables.py table_s6(), column 'R2'",0.79,yes
+705,−0.87,"Table S6, row 4 (Kumamoto), column 'Two-year contribution (log pts)'",table,data/decomposition.csv,"code/reproduce_tables.py table_s6(), column 'Two-year contribution (log pts)'",−0.87,yes
+706,−15.12,"Table S6, row 4 (Kumamoto), column 'Deviation in first post-event FY (log pts)'",table,data/decomposition.csv,"code/reproduce_tables.py table_s6(), column 'Deviation in first post-event FY (log pts)'",−15.12,yes
+707,−14.25,"Table S6, row 4 (Kumamoto), column 'Deviation less contribution'",table,data/decomposition.csv,"code/reproduce_tables.py table_s6(), column 'Deviation less contribution'",−14.25,yes
+708,5,"Table S6, row 5 (Ibaraki), column 'Pre-event points'",table,data/decomposition.csv,"code/reproduce_tables.py table_s6(), column 'Pre-event points'",5,yes
+709,+0.505,"Table S6, row 5 (Ibaraki), column 'Slope (log pts / year)'",table,data/decomposition.csv,"code/reproduce_tables.py table_s6(), column 'Slope (log pts / year)'",+0.505,yes
+710,0.15,"Table S6, row 5 (Ibaraki), column 'R²'",table,data/decomposition.csv,"code/reproduce_tables.py table_s6(), column 'R2'",0.15,yes
+711,+1.01,"Table S6, row 5 (Ibaraki), column 'Two-year contribution (log pts)'",table,data/decomposition.csv,"code/reproduce_tables.py table_s6(), column 'Two-year contribution (log pts)'",+1.01,yes
+712,+4.27,"Table S6, row 5 (Ibaraki), column 'Deviation in first post-event FY (log pts)'",table,data/decomposition.csv,"code/reproduce_tables.py table_s6(), column 'Deviation in first post-event FY (log pts)'",+4.27,yes
+713,+3.26,"Table S6, row 5 (Ibaraki), column 'Deviation less contribution'",table,data/decomposition.csv,"code/reproduce_tables.py table_s6(), column 'Deviation less contribution'",+3.26,yes
+714,5,"Table S6, row 6 (Chiba), column 'Pre-event points'",table,data/decomposition.csv,"code/reproduce_tables.py table_s6(), column 'Pre-event points'",5,yes
+715,+2.762,"Table S6, row 6 (Chiba), column 'Slope (log pts / year)'",table,data/decomposition.csv,"code/reproduce_tables.py table_s6(), column 'Slope (log pts / year)'",+2.762,yes
+716,0.91,"Table S6, row 6 (Chiba), column 'R²'",table,data/decomposition.csv,"code/reproduce_tables.py table_s6(), column 'R2'",0.91,yes
+717,+5.52,"Table S6, row 6 (Chiba), column 'Two-year contribution (log pts)'",table,data/decomposition.csv,"code/reproduce_tables.py table_s6(), column 'Two-year contribution (log pts)'",+5.52,yes
+718,−1.93,"Table S6, row 6 (Chiba), column 'Deviation in first post-event FY (log pts)'",table,data/decomposition.csv,"code/reproduce_tables.py table_s6(), column 'Deviation in first post-event FY (log pts)'",−1.93,yes
+719,−7.46,"Table S6, row 6 (Chiba), column 'Deviation less contribution'",table,data/decomposition.csv,"code/reproduce_tables.py table_s6(), column 'Deviation less contribution'",−7.46,yes
+720,5,"Table S6, row 7 (Aomori), column 'Pre-event points'",table,data/decomposition.csv,"code/reproduce_tables.py table_s6(), column 'Pre-event points'",5,yes
+721,−2.314,"Table S6, row 7 (Aomori), column 'Slope (log pts / year)'",table,data/decomposition.csv,"code/reproduce_tables.py table_s6(), column 'Slope (log pts / year)'",−2.314,yes
+722,0.58,"Table S6, row 7 (Aomori), column 'R²'",table,data/decomposition.csv,"code/reproduce_tables.py table_s6(), column 'R2'",0.58,yes
+723,−4.63,"Table S6, row 7 (Aomori), column 'Two-year contribution (log pts)'",table,data/decomposition.csv,"code/reproduce_tables.py table_s6(), column 'Two-year contribution (log pts)'",−4.63,yes
+724,−3.02,"Table S6, row 7 (Aomori), column 'Deviation in first post-event FY (log pts)'",table,data/decomposition.csv,"code/reproduce_tables.py table_s6(), column 'Deviation in first post-event FY (log pts)'",−3.02,yes
+725,+1.61,"Table S6, row 7 (Aomori), column 'Deviation less contribution'",table,data/decomposition.csv,"code/reproduce_tables.py table_s6(), column 'Deviation less contribution'",+1.61,yes
+726,5,"Table S6, row 8 (Okayama), column 'Pre-event points'",table,data/decomposition.csv,"code/reproduce_tables.py table_s6(), column 'Pre-event points'",5,yes
+727,−2.586,"Table S6, row 8 (Okayama), column 'Slope (log pts / year)'",table,data/decomposition.csv,"code/reproduce_tables.py table_s6(), column 'Slope (log pts / year)'",−2.586,yes
+728,0.85,"Table S6, row 8 (Okayama), column 'R²'",table,data/decomposition.csv,"code/reproduce_tables.py table_s6(), column 'R2'",0.85,yes
+729,−5.17,"Table S6, row 8 (Okayama), column 'Two-year contribution (log pts)'",table,data/decomposition.csv,"code/reproduce_tables.py table_s6(), column 'Two-year contribution (log pts)'",−5.17,yes
+730,+2.58,"Table S6, row 8 (Okayama), column 'Deviation in first post-event FY (log pts)'",table,data/decomposition.csv,"code/reproduce_tables.py table_s6(), column 'Deviation in first post-event FY (log pts)'",+2.58,yes
+731,+7.76,"Table S6, row 8 (Okayama), column 'Deviation less contribution'",table,data/decomposition.csv,"code/reproduce_tables.py table_s6(), column 'Deviation less contribution'",+7.76,yes
+732,5,"Table S6, row 9 (Hiroshima), column 'Pre-event points'",table,data/decomposition.csv,"code/reproduce_tables.py table_s6(), column 'Pre-event points'",5,yes
+733,+2.654,"Table S6, row 9 (Hiroshima), column 'Slope (log pts / year)'",table,data/decomposition.csv,"code/reproduce_tables.py table_s6(), column 'Slope (log pts / year)'",+2.654,yes
+734,0.73,"Table S6, row 9 (Hiroshima), column 'R²'",table,data/decomposition.csv,"code/reproduce_tables.py table_s6(), column 'R2'",0.73,yes
+735,+5.31,"Table S6, row 9 (Hiroshima), column 'Two-year contribution (log pts)'",table,data/decomposition.csv,"code/reproduce_tables.py table_s6(), column 'Two-year contribution (log pts)'",+5.31,yes
+736,−2.37,"Table S6, row 9 (Hiroshima), column 'Deviation in first post-event FY (log pts)'",table,data/decomposition.csv,"code/reproduce_tables.py table_s6(), column 'Deviation in first post-event FY (log pts)'",−2.37,yes
+737,−7.67,"Table S6, row 9 (Hiroshima), column 'Deviation less contribution'",table,data/decomposition.csv,"code/reproduce_tables.py table_s6(), column 'Deviation less contribution'",−7.67,yes
+738,5,"Table S6, row 10 (Ehime), column 'Pre-event points'",table,data/decomposition.csv,"code/reproduce_tables.py table_s6(), column 'Pre-event points'",5,yes
+739,+0.086,"Table S6, row 10 (Ehime), column 'Slope (log pts / year)'",table,data/decomposition.csv,"code/reproduce_tables.py table_s6(), column 'Slope (log pts / year)'",+0.086,yes
+740,0.01,"Table S6, row 10 (Ehime), column 'R²'",table,data/decomposition.csv,"code/reproduce_tables.py table_s6(), column 'R2'",0.01,yes
+741,+0.17,"Table S6, row 10 (Ehime), column 'Two-year contribution (log pts)'",table,data/decomposition.csv,"code/reproduce_tables.py table_s6(), column 'Two-year contribution (log pts)'",+0.17,yes
+742,+7.45,"Table S6, row 10 (Ehime), column 'Deviation in first post-event FY (log pts)'",table,data/decomposition.csv,"code/reproduce_tables.py table_s6(), column 'Deviation in first post-event FY (log pts)'",+7.45,yes
+743,+7.27,"Table S6, row 10 (Ehime), column 'Deviation less contribution'",table,data/decomposition.csv,"code/reproduce_tables.py table_s6(), column 'Deviation less contribution'",+7.27,yes
+744,5,"Table S6, row 11 (Hokkaido), column 'Pre-event points'",table,data/decomposition.csv,"code/reproduce_tables.py table_s6(), column 'Pre-event points'",5,yes
+745,−1.103,"Table S6, row 11 (Hokkaido), column 'Slope (log pts / year)'",table,data/decomposition.csv,"code/reproduce_tables.py table_s6(), column 'Slope (log pts / year)'",−1.103,yes
+746,0.66,"Table S6, row 11 (Hokkaido), column 'R²'",table,data/decomposition.csv,"code/reproduce_tables.py table_s6(), column 'R2'",0.66,yes
+747,−2.21,"Table S6, row 11 (Hokkaido), column 'Two-year contribution (log pts)'",table,data/decomposition.csv,"code/reproduce_tables.py table_s6(), column 'Two-year contribution (log pts)'",−2.21,yes
+748,+1.92,"Table S6, row 11 (Hokkaido), column 'Deviation in first post-event FY (log pts)'",table,data/decomposition.csv,"code/reproduce_tables.py table_s6(), column 'Deviation in first post-event FY (log pts)'",+1.92,yes
+749,+4.13,"Table S6, row 11 (Hokkaido), column 'Deviation less contribution'",table,data/decomposition.csv,"code/reproduce_tables.py table_s6(), column 'Deviation less contribution'",+4.13,yes
+750,5,"Table S6, row 12 (Ishikawa), column 'Pre-event points'",table,data/decomposition.csv,"code/reproduce_tables.py table_s6(), column 'Pre-event points'",5,yes
+751,−0.281,"Table S6, row 12 (Ishikawa), column 'Slope (log pts / year)'",table,data/decomposition.csv,"code/reproduce_tables.py table_s6(), column 'Slope (log pts / year)'",−0.281,yes
+752,0.05,"Table S6, row 12 (Ishikawa), column 'R²'",table,data/decomposition.csv,"code/reproduce_tables.py table_s6(), column 'R2'",0.05,yes
+753,−0.56,"Table S6, row 12 (Ishikawa), column 'Two-year contribution (log pts)'",table,data/decomposition.csv,"code/reproduce_tables.py table_s6(), column 'Two-year contribution (log pts)'",−0.56,yes
+754,+2.52,"Table S6, row 12 (Ishikawa), column 'Deviation in first post-event FY (log pts)'",table,data/decomposition.csv,"code/reproduce_tables.py table_s6(), column 'Deviation in first post-event FY (log pts)'",+2.52,yes
+755,+3.08,"Table S6, row 12 (Ishikawa), column 'Deviation less contribution'",table,data/decomposition.csv,"code/reproduce_tables.py table_s6(), column 'Deviation less contribution'",+3.08,yes
+756,2,"Table S6, row 13 (Niigata), column 'Pre-event points'",table,data/decomposition.csv,"code/reproduce_tables.py table_s6(), column 'Pre-event points'",2,yes
+757,−1.446,"Table S6, row 13 (Niigata), column 'Slope (log pts / year)'",table,data/decomposition.csv,"code/reproduce_tables.py table_s6(), column 'Slope (log pts / year)'",−1.446,yes
+758,1.00,"Table S6, row 13 (Niigata), column 'R²'",table,data/decomposition.csv,"code/reproduce_tables.py table_s6(), column 'R2'",1.00,yes
+759,−2.89,"Table S6, row 13 (Niigata), column 'Two-year contribution (log pts)'",table,data/decomposition.csv,"code/reproduce_tables.py table_s6(), column 'Two-year contribution (log pts)'",−2.89,yes
+760,+2.99,"Table S6, row 13 (Niigata), column 'Deviation in first post-event FY (log pts)'",table,data/decomposition.csv,"code/reproduce_tables.py table_s6(), column 'Deviation in first post-event FY (log pts)'",+2.99,yes
+761,2011,"Table S7, row 1 (Fukushima), column 'First post-event FY'",table,data/decomposition.csv,"code/reproduce_tables.py table_s7(), column 'First post-event FY'",2011,yes
+762,−19.19,"Table S7, row 1 (Fukushima), column 'Deviation in first post-event FY (log pts)'",table,data/decomposition.csv,"code/reproduce_tables.py table_s7(), column 'Deviation in first post-event FY (log pts)'",−19.19,yes
+763,−6.56,"Table S7, row 1 (Fukushima), column 'Standardised vs own pre-event'",table,data/decomposition.csv,"code/reproduce_tables.py table_s7(), column 'Standardised vs own pre-event'",−6.56,yes
+764,3,"Table S7, row 1 (Fukushima), column 'Pre-event n'",table,data/decomposition.csv,"code/reproduce_tables.py table_s7(), column 'Pre-event n'",3,yes
+765,2011,"Table S7, row 2 (Miyagi), column 'First post-event FY'",table,data/decomposition.csv,"code/reproduce_tables.py table_s7(), column 'First post-event FY'",2011,yes
+766,−19.13,"Table S7, row 2 (Miyagi), column 'Deviation in first post-event FY (log pts)'",table,data/decomposition.csv,"code/reproduce_tables.py table_s7(), column 'Deviation in first post-event FY (log pts)'",−19.13,yes
+767,−4.04,"Table S7, row 2 (Miyagi), column 'Standardised vs own pre-event'",table,data/decomposition.csv,"code/reproduce_tables.py table_s7(), column 'Standardised vs own pre-event'",−4.04,yes
+768,3,"Table S7, row 2 (Miyagi), column 'Pre-event n'",table,data/decomposition.csv,"code/reproduce_tables.py table_s7(), column 'Pre-event n'",3,yes
+769,2011,"Table S7, row 3 (Iwate), column 'First post-event FY'",table,data/decomposition.csv,"code/reproduce_tables.py table_s7(), column 'First post-event FY'",2011,yes
+770,−15.88,"Table S7, row 3 (Iwate), column 'Deviation in first post-event FY (log pts)'",table,data/decomposition.csv,"code/reproduce_tables.py table_s7(), column 'Deviation in first post-event FY (log pts)'",−15.88,yes
+771,−3.40,"Table S7, row 3 (Iwate), column 'Standardised vs own pre-event'",table,data/decomposition.csv,"code/reproduce_tables.py table_s7(), column 'Standardised vs own pre-event'",−3.40,yes
+772,3,"Table S7, row 3 (Iwate), column 'Pre-event n'",table,data/decomposition.csv,"code/reproduce_tables.py table_s7(), column 'Pre-event n'",3,yes
+773,2016,"Table S7, row 4 (Kumamoto), column 'First post-event FY'",table,data/decomposition.csv,"code/reproduce_tables.py table_s7(), column 'First post-event FY'",2016,yes
+774,−15.12,"Table S7, row 4 (Kumamoto), column 'Deviation in first post-event FY (log pts)'",table,data/decomposition.csv,"code/reproduce_tables.py table_s7(), column 'Deviation in first post-event FY (log pts)'",−15.12,yes
+775,−8.89,"Table S7, row 4 (Kumamoto), column 'Standardised vs own pre-event'",table,data/decomposition.csv,"code/reproduce_tables.py table_s7(), column 'Standardised vs own pre-event'",−8.89,yes
+776,5,"Table S7, row 4 (Kumamoto), column 'Pre-event n'",table,data/decomposition.csv,"code/reproduce_tables.py table_s7(), column 'Pre-event n'",5,yes
+777,2011,"Table S7, row 5 (Ibaraki), column 'First post-event FY'",table,data/decomposition.csv,"code/reproduce_tables.py table_s7(), column 'First post-event FY'",2011,yes
+778,+4.27,"Table S7, row 5 (Ibaraki), column 'Deviation in first post-event FY (log pts)'",table,data/decomposition.csv,"code/reproduce_tables.py table_s7(), column 'Deviation in first post-event FY (log pts)'",+4.27,yes
+779,+0.87,"Table S7, row 5 (Ibaraki), column 'Standardised vs own pre-event'",table,data/decomposition.csv,"code/reproduce_tables.py table_s7(), column 'Standardised vs own pre-event'",+0.87,yes
+780,3,"Table S7, row 5 (Ibaraki), column 'Pre-event n'",table,data/decomposition.csv,"code/reproduce_tables.py table_s7(), column 'Pre-event n'",3,yes
+781,2011,"Table S7, row 6 (Chiba), column 'First post-event FY'",table,data/decomposition.csv,"code/reproduce_tables.py table_s7(), column 'First post-event FY'",2011,yes
+782,−1.93,"Table S7, row 6 (Chiba), column 'Deviation in first post-event FY (log pts)'",table,data/decomposition.csv,"code/reproduce_tables.py table_s7(), column 'Deviation in first post-event FY (log pts)'",−1.93,yes
+783,−2.80,"Table S7, row 6 (Chiba), column 'Standardised vs own pre-event'",table,data/decomposition.csv,"code/reproduce_tables.py table_s7(), column 'Standardised vs own pre-event'",−2.80,yes
+784,3,"Table S7, row 6 (Chiba), column 'Pre-event n'",table,data/decomposition.csv,"code/reproduce_tables.py table_s7(), column 'Pre-event n'",3,yes
+785,2011,"Table S7, row 7 (Aomori), column 'First post-event FY'",table,data/decomposition.csv,"code/reproduce_tables.py table_s7(), column 'First post-event FY'",2011,yes
+786,−3.02,"Table S7, row 7 (Aomori), column 'Deviation in first post-event FY (log pts)'",table,data/decomposition.csv,"code/reproduce_tables.py table_s7(), column 'Deviation in first post-event FY (log pts)'",−3.02,yes
+787,+0.79,"Table S7, row 7 (Aomori), column 'Standardised vs own pre-event'",table,data/decomposition.csv,"code/reproduce_tables.py table_s7(), column 'Standardised vs own pre-event'",+0.79,yes
+788,3,"Table S7, row 7 (Aomori), column 'Pre-event n'",table,data/decomposition.csv,"code/reproduce_tables.py table_s7(), column 'Pre-event n'",3,yes
+789,2018,"Table S7, row 8 (Okayama), column 'First post-event FY'",table,data/decomposition.csv,"code/reproduce_tables.py table_s7(), column 'First post-event FY'",2018,yes
+790,+2.58,"Table S7, row 8 (Okayama), column 'Deviation in first post-event FY (log pts)'",table,data/decomposition.csv,"code/reproduce_tables.py table_s7(), column 'Deviation in first post-event FY (log pts)'",+2.58,yes
+791,+0.83,"Table S7, row 8 (Okayama), column 'Standardised vs own pre-event'",table,data/decomposition.csv,"code/reproduce_tables.py table_s7(), column 'Standardised vs own pre-event'",+0.83,yes
+792,5,"Table S7, row 8 (Okayama), column 'Pre-event n'",table,data/decomposition.csv,"code/reproduce_tables.py table_s7(), column 'Pre-event n'",5,yes
+793,2018,"Table S7, row 9 (Hiroshima), column 'First post-event FY'",table,data/decomposition.csv,"code/reproduce_tables.py table_s7(), column 'First post-event FY'",2018,yes
+794,−2.37,"Table S7, row 9 (Hiroshima), column 'Deviation in first post-event FY (log pts)'",table,data/decomposition.csv,"code/reproduce_tables.py table_s7(), column 'Deviation in first post-event FY (log pts)'",−2.37,yes
+795,−1.72,"Table S7, row 9 (Hiroshima), column 'Standardised vs own pre-event'",table,data/decomposition.csv,"code/reproduce_tables.py table_s7(), column 'Standardised vs own pre-event'",−1.72,yes
+796,5,"Table S7, row 9 (Hiroshima), column 'Pre-event n'",table,data/decomposition.csv,"code/reproduce_tables.py table_s7(), column 'Pre-event n'",5,yes
+797,2018,"Table S7, row 10 (Ehime), column 'First post-event FY'",table,data/decomposition.csv,"code/reproduce_tables.py table_s7(), column 'First post-event FY'",2018,yes
+798,+7.45,"Table S7, row 10 (Ehime), column 'Deviation in first post-event FY (log pts)'",table,data/decomposition.csv,"code/reproduce_tables.py table_s7(), column 'Deviation in first post-event FY (log pts)'",+7.45,yes
+799,+1.73,"Table S7, row 10 (Ehime), column 'Standardised vs own pre-event'",table,data/decomposition.csv,"code/reproduce_tables.py table_s7(), column 'Standardised vs own pre-event'",+1.73,yes
+800,5,"Table S7, row 10 (Ehime), column 'Pre-event n'",table,data/decomposition.csv,"code/reproduce_tables.py table_s7(), column 'Pre-event n'",5,yes
+801,2018,"Table S7, row 11 (Hokkaido), column 'First post-event FY'",table,data/decomposition.csv,"code/reproduce_tables.py table_s7(), column 'First post-event FY'",2018,yes
+802,+1.92,"Table S7, row 11 (Hokkaido), column 'Deviation in first post-event FY (log pts)'",table,data/decomposition.csv,"code/reproduce_tables.py table_s7(), column 'Deviation in first post-event FY (log pts)'",+1.92,yes
+803,+0.91,"Table S7, row 11 (Hokkaido), column 'Standardised vs own pre-event'",table,data/decomposition.csv,"code/reproduce_tables.py table_s7(), column 'Standardised vs own pre-event'",+0.91,yes
+804,5,"Table S7, row 11 (Hokkaido), column 'Pre-event n'",table,data/decomposition.csv,"code/reproduce_tables.py table_s7(), column 'Pre-event n'",5,yes
+805,2024,"Table S7, row 12 (Ishikawa), column 'First post-event FY'",table,data/decomposition.csv,"code/reproduce_tables.py table_s7(), column 'First post-event FY'",2024,yes
+806,+2.52,"Table S7, row 12 (Ishikawa), column 'Deviation in first post-event FY (log pts)'",table,data/decomposition.csv,"code/reproduce_tables.py table_s7(), column 'Deviation in first post-event FY (log pts)'",+2.52,yes
+807,+1.59,"Table S7, row 12 (Ishikawa), column 'Standardised vs own pre-event'",table,data/decomposition.csv,"code/reproduce_tables.py table_s7(), column 'Standardised vs own pre-event'",+1.59,yes
+808,5,"Table S7, row 12 (Ishikawa), column 'Pre-event n'",table,data/decomposition.csv,"code/reproduce_tables.py table_s7(), column 'Pre-event n'",5,yes
+809,2007,"Table S7, row 13 (Niigata), column 'First post-event FY'",table,data/decomposition.csv,"code/reproduce_tables.py table_s7(), column 'First post-event FY'",2007,yes
+810,+2.99,"Table S7, row 13 (Niigata), column 'Deviation in first post-event FY (log pts)'",table,data/decomposition.csv,"code/reproduce_tables.py table_s7(), column 'Deviation in first post-event FY (log pts)'",+2.99,yes
+811,0,"Table S7, row 13 (Niigata), column 'Pre-event n'",table,data/decomposition.csv,"code/reproduce_tables.py table_s7(), column 'Pre-event n'",0,yes
+812,−5.81,"Table S7 (age bands), row 1 (Fukushima, FY2024), column '0 to 14'",table,data/pop_decomposition_by_age.csv,"code/reproduce_tables.py table_s7(), column '0 to 14'",−5.81,yes
+813,−5.89,"Table S7 (age bands), row 1 (Fukushima, FY2024), column '15 to 29'",table,data/pop_decomposition_by_age.csv,"code/reproduce_tables.py table_s7(), column '15 to 29'",−5.89,yes
+814,−6.13,"Table S7 (age bands), row 1 (Fukushima, FY2024), column '30 to 49'",table,data/pop_decomposition_by_age.csv,"code/reproduce_tables.py table_s7(), column '30 to 49'",−6.13,yes
+815,−3.67,"Table S7 (age bands), row 1 (Fukushima, FY2024), column '50 to 69'",table,data/pop_decomposition_by_age.csv,"code/reproduce_tables.py table_s7(), column '50 to 69'",−3.67,yes
+816,4.57,"Table S7 (age bands), row 1 (Fukushima, FY2024), column '70 and over'",table,data/pop_decomposition_by_age.csv,"code/reproduce_tables.py table_s7(), column '70 and over'",4.57,yes

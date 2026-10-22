@@ -1,0 +1,40 @@
+variable,description,coverage,unit,notes
+fiscal_year,fiscal year,2005-2024,,key variable
+pref_code,prefecture code,47 prefectures,,key variable
+donors,number of donations,2005-2024,persons,"System of Social and Demographic Statistics 0000010107, item G6230; original source Japanese Red Cross Society; fiscal year. Counts donations, not individual donors. Counts of individual donors exist as a separate series in Ministry of Health, Labour and Welfare committee documents (not obtained)."
+r_donations_per_capita_15_69,donation rate (donations per resident aged 15-69),2005-2024,donations per person,Donations divided by the population aged 15-69. Not the proportion of residents who donated; it also rises when the same people donate more often.
+pop_total_oct1_year_t,total population on 1 October of calendar year t,2005-2024,persons,"Default denominator. Population Estimates; thousands multiplied by 1,000."
+pop_total_oct1_year_t_plus_1,total population on 1 October of calendar year t+1,2005-2023,persons,For comparison only; NA for FY2024 (not yet published).
+pop_total_mean_t_t1,"total population, mean of t and t+1",2005-2023,persons,Approximation to the mean during the fiscal year; for comparison only.
+pop_15_69_oct1_year_t,population aged 15-69 on 1 October of calendar year t,2005-2024,persons,"Approximates the donation-eligible ages. The minimum donation age is 16, but the smallest 5-year band is 15-19, so no apportioning was applied."
+pop_65plus_oct1_year_t,population aged 65 and over,2005-2024,persons,"For FY2005-FY2006 there is no 85+ band, so the 80+ band is used."
+dln_D,"change in donations, log points",2005-2024,log points,Baseline: geometric mean of FY2005-FY2009. dln_D = dln_P + dln_s + dln_r holds exactly.
+dln_P,population-size component,2005-2024,log points,
+dln_s,eligible-age-share component,2005-2024,log points,Change in the share aged 15-69. Changes in age composition within ages 15-69 are not captured here and fall into dln_r.
+dln_r,donation-rate component,2005-2024,log points,"Change in donations per resident aged 15-69, not in the proportion who donate; more frequent donation and more donors cannot be separated."
+evacuees_outside_pref_mar11,evacuees outside the prefecture (bulletin nearest 11 March),2011-2024,persons,"Extracted from the text of the Reconstruction Agency bulletins on the number of evacuees. Fukushima, Miyagi and Iwate only. A lower bound of persons physically absent; self-evacuees may be missed. Not corrected."
+evacuees_outside_pref_midyear,evacuees outside the prefecture (mid-year bulletin),2011-2024,persons,As above.
+hospitals,hospitals,2005-2023,facilities,"System of Social and Demographic Statistics 0000010109, item I5101. Labelled by fiscal year but refers to 1 October of each calendar year. Matches the Survey of Medical Institutions for all 47 prefectures in 2010, 2015 and 2020."
+hospital_beds,hospital beds,2005-2023,beds,"System of Social and Demographic Statistics, item I5211. As above."
+general_beds,general beds,2005-2023,beds,"System of Social and Demographic Statistics, item I521150. From FY1996."
+physicians,physicians,2005-2022,persons,"System of Social and Demographic Statistics, item I6100. Every second year."
+donation_volume_liters,not obtained,none,,Requires Japanese Red Cross Society material; not entered in this dataset.
+donors_200ml,not obtained,none,,Requires Japanese Red Cross Society material; not entered in this dataset.
+donors_400ml,not obtained,none,,Requires Japanese Red Cross Society material; not entered in this dataset.
+donors_apheresis,not obtained,none,,Requires Japanese Red Cross Society material; not entered in this dataset.
+supply_units_rbc,not obtained,none,,Requires Japanese Red Cross Society material; not entered in this dataset.
+supply_units_platelet,not obtained,none,,Requires Japanese Red Cross Society material; not entered in this dataset.
+supply_units_plasma,not obtained,none,,Requires Japanese Red Cross Society material; not entered in this dataset.
+supply_units_total,not obtained,none,,Requires Japanese Red Cross Society material; not entered in this dataset.
+used_units_rbc,not obtained,none,,Requires Japanese Red Cross Society material; not entered in this dataset.
+used_units_platelet,not obtained,none,,Requires Japanese Red Cross Society material; not entered in this dataset.
+used_units_plasma,not obtained,none,,Requires Japanese Red Cross Society material; not entered in this dataset.
+used_units_total,not obtained,none,,Requires Japanese Red Cross Society material; not entered in this dataset.
+collection_site_room,not obtained,none,,Requires Japanese Red Cross Society material; not entered in this dataset.
+collection_site_mobile,not obtained,none,,Requires Japanese Red Cross Society material; not entered in this dataset.
+donors_age_10s,not obtained,none,,Requires Japanese Red Cross Society material; not entered in this dataset.
+donors_age_20s,not obtained,none,,Requires Japanese Red Cross Society material; not entered in this dataset.
+donors_age_30s,not obtained,none,,Requires Japanese Red Cross Society material; not entered in this dataset.
+donors_age_40s,not obtained,none,,Requires Japanese Red Cross Society material; not entered in this dataset.
+donors_age_50s,not obtained,none,,Requires Japanese Red Cross Society material; not entered in this dataset.
+donors_age_60s,not obtained,none,,Requires Japanese Red Cross Society material; not entered in this dataset.

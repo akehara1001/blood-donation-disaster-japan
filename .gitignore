@@ -1,0 +1,10 @@
+# e-Stat application ID (never commit)
+code/pipeline/estat_appid.txt
+# raw downloads and intermediate files written by code/pipeline/
+data/raw/
+data/processed/
+logs/
+# output written by code/reproduce_tables.py and code/make_figures.py
+output/
+__pycache__/
+*.pyc

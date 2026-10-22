@@ -1,0 +1,21 @@
+# Fixed age schedule w_a, the same in every fiscal year.
+# The denominator for the 10s is the population aged 15-19 (no apportioning); the same definition is used for E.
+schedule,source_fiscal_year,age_group,donors_national,population_national,w_rate,note
+A,2011,10s,285020,6075000,0.046916872427983536,w = national donations in the age group / national population in the age group; the denominator for the 10s is the population aged 15-19 (no apportioning)
+A,2011,20s,1018234,13589000,0.07493075281477665,w = national donations in the age group / national population in the age group; the denominator for the 10s is the population aged 15-19 (no apportioning)
+A,2011,30s,1298292,17805000,0.0729172704296546,w = national donations in the age group / national population in the age group; the denominator for the 10s is the population aged 15-19 (no apportioning)
+A,2011,40s,1398026,17281000,0.08089960071755106,w = national donations in the age group / national population in the age group; the denominator for the 10s is the population aged 15-19 (no apportioning)
+A,2011,50s,893145,15959000,0.05596497274265305,w = national donations in the age group / national population in the age group; the denominator for the 10s is the population aged 15-19 (no apportioning)
+A,2011,60s,358148,18493000,0.019366679284053424,w = national donations in the age group / national population in the age group; the denominator for the 10s is the population aged 15-19 (no apportioning)
+B,2024,10s,212373,5457000,0.038917537108301266,w = national donations in the age group / national population in the age group; the denominator for the 10s is the population aged 15-19 (no apportioning)
+B,2024,20s,661991,12779000,0.051803036231317004,w = national donations in the age group / national population in the age group; the denominator for the 10s is the population aged 15-19 (no apportioning)
+B,2024,30s,707258,13266000,0.05331358359716569,w = national donations in the age group / national population in the age group; the denominator for the 10s is the population aged 15-19 (no apportioning)
+B,2024,40s,1088975,16376000,0.06649822911577918,w = national donations in the age group / national population in the age group; the denominator for the 10s is the population aged 15-19 (no apportioning)
+B,2024,50s,1570397,18278000,0.08591733231206915,w = national donations in the age group / national population in the age group; the denominator for the 10s is the population aged 15-19 (no apportioning)
+B,2024,60s,746315,14839000,0.05029415728822697,w = national donations in the age group / national population in the age group; the denominator for the 10s is the population aged 15-19 (no apportioning)
+C,2010,10s,295775,6093000,0.04854341047103233,w = national donations in the age group / national population in the age group; the denominator for the 10s is the population aged 15-19 (no apportioning)
+C,2010,20s,1080814,13916000,0.07766700201207244,w = national donations in the age group / national population in the age group; the denominator for the 10s is the population aged 15-19 (no apportioning)
+C,2010,30s,1368635,18285000,0.07485015039649986,w = national donations in the age group / national population in the age group; the denominator for the 10s is the population aged 15-19 (no apportioning)
+C,2010,40s,1359671,16902000,0.08044438527984854,w = national donations in the age group / national population in the age group; the denominator for the 10s is the population aged 15-19 (no apportioning)
+C,2010,50s,874585,16428000,0.05323746043340638,w = national donations in the age group / national population in the age group; the denominator for the 10s is the population aged 15-19 (no apportioning)
+C,2010,60s,350196,18384000,0.019048955613577022,w = national donations in the age group / national population in the age group; the denominator for the 10s is the population aged 15-19 (no apportioning)

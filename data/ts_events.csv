@@ -1,0 +1,14 @@
+event,date,event_fiscal_year,prefecture,class,first_post_event_fy,post_event_months,pre_event_months,base_year,long_term_analysis
+Great East Japan Earthquake,11 March 2011,FY2010,Iwate,most affected,FY2011,12.0,0.0,FY2009,yes
+Great East Japan Earthquake,11 March 2011,FY2010,Miyagi,most affected,FY2011,12.0,0.0,FY2009,yes
+Great East Japan Earthquake,11 March 2011,FY2010,Fukushima,most affected,FY2011,12.0,0.0,FY2009,yes
+Great East Japan Earthquake,11 March 2011,FY2010,Aomori,intermediate exposure,FY2011,12.0,0.0,FY2009,no
+Great East Japan Earthquake,11 March 2011,FY2010,Ibaraki,intermediate exposure,FY2011,12.0,0.0,FY2009,no
+Great East Japan Earthquake,11 March 2011,FY2010,Chiba,intermediate exposure,FY2011,12.0,0.0,FY2009,no
+Kumamoto Earthquake,14 and 16 April 2016,FY2016,Kumamoto,most affected,FY2016,11.5,0.4,FY2014,no
+Hokkaido Iburi Earthquake,6 September 2018,FY2018,Hokkaido,most affected,FY2018,6.8,5.2,FY2016,no
+Noto Peninsula Earthquake,1 January 2024,FY2023,Ishikawa,most affected,FY2024,12.0,0.0,FY2022,no
+Niigata Chuetsu-oki Earthquake,16 July 2007,FY2007,Niigata,most affected,FY2007,8.5,3.5,FY2005,no
+July 2018 heavy rain,28 June to 8 July 2018,FY2018,Hiroshima,most affected,FY2018,8.7,2.9,FY2016,no
+July 2018 heavy rain,28 June to 8 July 2018,FY2018,Okayama,most affected,FY2018,8.7,2.9,FY2016,no
+July 2018 heavy rain,28 June to 8 July 2018,FY2018,Ehime,most affected,FY2018,8.7,2.9,FY2016,no

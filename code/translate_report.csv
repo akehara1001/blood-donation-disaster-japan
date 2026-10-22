@@ -1,0 +1,12 @@
+file,rows,numeric_columns,numeric_sha256_identical,comment_lines
+panel.csv,940,25,yes,0
+panel_dictionary.csv,39,0,yes,0
+decomposition.csv,960,14,yes,0
+age_standardized.csv,2880,10,yes,2
+population_denominators.csv,960,6,yes,2
+population_age.csv,81792,7,yes,0
+evacuees_outside_prefecture.csv,32,7,yes,0
+age_schedule.csv,18,4,yes,2
+event_counterfactual.csv,39,12,yes,4
+pop_decomposition_by_age.csv,960,14,yes,0
+actual_donors_national.csv,2,2,yes,0
